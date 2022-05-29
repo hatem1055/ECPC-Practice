@@ -1,46 +1,26 @@
 #include <bits/stdc++.h>
 using namespace std ;
 int main(){
-    int n , c;
-    int m , median , l=0, u=0 ;
+    long long n ;
+    int m , l=0, u=0 ;
     cin >> n >> m ;
-     vector <int> arr(n);
-    
-  for (int i = 0 ; i < n ; i++){
-      int x ; 
-      cin >> x ; 
-      if (x < m){
-          l++;
-      }
-      else {
-          u++;
-      }
-  }
 
-  if (l >= u){
-      cout << 0 ;
-  }
-  else {
-      cout << u-l;
-  }
-    // sort(arr.begin(), arr.end() );
+    for (int i = 0 ; i < n ; i++){
+        int x ; 
+        cin >> x ; 
+        if (x < m){  //to detrmine the number of elements that less than m ,and bigger than m 
+            l++;    
+        }
+        else {
+            u++;
+        }
+    }
 
-    // if ( n % 2 == 0){
-    //     median = arr[(n-1)/2] ;
-    // }
-    // else {
-    //     median = arr[n/2];
-    // }
-    
-
-    // if (median == m){
-    //     cout << 1 ;
-    // }
-    // else if (median < m ){
-    //     cout << 0 ;
-    // }
-    // else {
-        
-    // }
-
+    if (l >= u){  // in this case , the origial array does not meet the requirement to create m-good array, so we can not get any subarrays of it
+        cout << 0 ;
+    }
+    else {  // in this case , there many elements or all meets the requirement to create m-good array , so the number of sub arrays will be the result of subtract both u & l 
+        cout << u-l;
+    }
+ 
 }
