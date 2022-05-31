@@ -9,7 +9,7 @@
  6. B -  Odd Subarrays : [Codeforces Round #792 (Div. 1 + Div. 2)](https://codeforces.com/contest/1684)
  7. A -  Circular Local MiniMax : [Codeforces Round #794 (Div. 1)](https://codeforces.com/contest/1685)
  8. K -  Medians and Partition : [2018-2019 ACM-ICPC, NEERC, Southern Subregional Contest, Qualification Stage](https://codeforces.com/gym/101911)
-
+ 9. A -  Game With Sticks : [Codeforces Round #258 (Div. 2)](https://codeforces.com/problemset/problem/451/A)
 
 ## Leetcode
 
