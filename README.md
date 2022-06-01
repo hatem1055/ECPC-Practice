@@ -11,7 +11,7 @@
  8. K -  Medians and Partition : [2018-2019 ACM-ICPC, NEERC, Southern Subregional Contest, Qualification Stage](https://codeforces.com/gym/101911)
  9. A -  Game With Sticks : [Codeforces Round #258 (Div. 2)](https://codeforces.com/problemset/problem/451/A)
  10. A - Everything Everywhere All But One : [Codeforces Round #794 (Div. 2)](https://codeforces.com/problemset/problem/1686/A)
- 11. B - B. Shoe Shuffling : CodeCraft-22 and Codeforces Round #795 (Div. 2)(https://codeforces.com/contest/1691/problem/B) 
+ 11. B - B. Shoe Shuffling : [CodeCraft-22 and Codeforces Round #795 (Div. 2)](https://codeforces.com/contest/1691/problem/B) 
 
 ## Leetcode
 
