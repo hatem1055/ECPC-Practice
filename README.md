@@ -12,7 +12,7 @@
  9. A -  Game With Sticks : [Codeforces Round #258 (Div. 2)](https://codeforces.com/problemset/problem/451/A)
  10. A - Everything Everywhere All But One : [Codeforces Round #794 (Div. 2)](https://codeforces.com/problemset/problem/1686/A)
  11. B - Shoe Shuffling : [CodeCraft-22 and Codeforces Round #795 (Div. 2)](https://codeforces.com/contest/1691/problem/B)
- 12. B - Lecture : [Codeforces Round #284 (Div. 2)] (https://codeforces.com/problemset/problem/499/B) 
+ 12. B - Lecture : [Codeforces Round #284 (Div. 2)](https://codeforces.com/problemset/problem/499/B) 
 
 ## Leetcode
 
