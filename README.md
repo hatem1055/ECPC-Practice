@@ -14,6 +14,7 @@
  11. B - Shoe Shuffling : [CodeCraft-22 and Codeforces Round #795 (Div. 2)](https://codeforces.com/contest/1691/problem/B)
  12. B - Lecture : [Codeforces Round #284 (Div. 2)](https://codeforces.com/problemset/problem/499/B) 
  13. B - Tokitsukaze and Good 01-String (easy version) : [Codeforces Round #789 (Div. 2)](https://codeforces.com/problemset/problem/1678/B1)
+ 14. A - Keyboard : [Codeforces Round #271 (Div. 2)](https://codeforces.com/contest/474/problem/A)
 
 ## Leetcode
 
