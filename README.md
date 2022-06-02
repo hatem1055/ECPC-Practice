@@ -17,6 +17,7 @@
  14. A - Keyboard : [Codeforces Round #271 (Div. 2)](https://codeforces.com/contest/474/problem/A)
  15. A - AvtoBus : [Codeforces Round #791 (Div. 2)](https://codeforces.com/problemset/problem/1679/A)
  16. B - Big Vova : [Codeforces Round #669 (Div. 2)](https://codeforces.com/contest/1407/problem/B)
+ 17. D - X-Sum : [Codeforces Round #790 (Div. 4)](https://codeforces.com/problemset/problem/1676/D)
 
 ## Leetcode
 
