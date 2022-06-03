@@ -30,6 +30,7 @@
  5. Add Two Numbers: [Problem #2](https://leetcode.com/problems/add-two-numbers/)
  6. Check If a String Contains All Binary Codes of Size K [Problem #1461](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
  7. Maximum Number of Darts Inside of a Circular Dartboard [Problem #1453](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/)
+ 8. Range Sum Query 2D - Immutable [Problem #304](https://leetcode.com/problems/range-sum-query-2d-immutable/)
 ## AtCoder
 
  1. B - Intersection : [AtCoder Beginner contest 199](https://atcoder.jp/contests/abc199/tasks/abc199_b?lang=e)
@@ -41,4 +42,3 @@
  3. Simple Text Editor : [One Week Preparation Kit - Day 6](https://www.hackerrank.com/challenges/one-week-preparation-kit-simple-text-editor/problem)
  4. Truck Tour : [Prepare - Dara Structures - Queues](https://www.hackerrank.com/challenges/truck-tour/problem?h_r=internal-search)
  
-
