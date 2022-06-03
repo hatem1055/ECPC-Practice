@@ -14,6 +14,12 @@
  11. B - Shoe Shuffling : [CodeCraft-22 and Codeforces Round #795 (Div. 2)](https://codeforces.com/contest/1691/problem/B)
  12. B - Lecture : [Codeforces Round #284 (Div. 2)](https://codeforces.com/problemset/problem/499/B) 
  13. B - Tokitsukaze and Good 01-String (easy version) : [Codeforces Round #789 (Div. 2)](https://codeforces.com/problemset/problem/1678/B1)
+ 14. A - Keyboard : [Codeforces Round #271 (Div. 2)](https://codeforces.com/contest/474/problem/A)
+ 15. A - AvtoBus : [Codeforces Round #791 (Div. 2)](https://codeforces.com/problemset/problem/1679/A)
+ 16. B - Big Vova : [Codeforces Round #669 (Div. 2)](https://codeforces.com/contest/1407/problem/B)
+ 17. D - X-Sum : [Codeforces Round #790 (Div. 4)](https://codeforces.com/problemset/problem/1676/D)
+ 18. B - Even Array : [Codeforces Round #650 (Div. 3)](https://codeforces.com/problemset/problem/1367/B)
+ 19. A - Raising Bacteria : [Codeforces Round #320 (Div. 2) [Bayan Thanks-Round]](https://codeforces.com/contest/579/problem/A)
 
 ## Leetcode
 
@@ -24,6 +30,7 @@
  5. Add Two Numbers: [Problem #2](https://leetcode.com/problems/add-two-numbers/)
  6. Check If a String Contains All Binary Codes of Size K [Problem #1461](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
  7. Maximum Number of Darts Inside of a Circular Dartboard [Problem #1453](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/)
+ 8. Range Sum Query 2D - Immutable [Problem #304](https://leetcode.com/problems/range-sum-query-2d-immutable/)
 ## AtCoder
 
  1. B - Intersection : [AtCoder Beginner contest 199](https://atcoder.jp/contests/abc199/tasks/abc199_b?lang=e)
@@ -35,4 +42,3 @@
  3. Simple Text Editor : [One Week Preparation Kit - Day 6](https://www.hackerrank.com/challenges/one-week-preparation-kit-simple-text-editor/problem)
  4. Truck Tour : [Prepare - Dara Structures - Queues](https://www.hackerrank.com/challenges/truck-tour/problem?h_r=internal-search)
  
-
