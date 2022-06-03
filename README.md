@@ -19,6 +19,7 @@
  16. B - Big Vova : [Codeforces Round #669 (Div. 2)](https://codeforces.com/contest/1407/problem/B)
  17. D - X-Sum : [Codeforces Round #790 (Div. 4)](https://codeforces.com/problemset/problem/1676/D)
  18. B - Even Array : [Codeforces Round #650 (Div. 3)](https://codeforces.com/problemset/problem/1367/B)
+ 19. A - Raising Bacteria : [Codeforces Round #320 (Div. 2) [Bayan Thanks-Round]](https://codeforces.com/contest/579/problem/A)
 
 ## Leetcode
 
