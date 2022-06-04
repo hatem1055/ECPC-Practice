@@ -1,4 +1,4 @@
-# Valid Sudoko
+# Valid Sudoku
 
 ## Site of the problem >> LeetCode
 
