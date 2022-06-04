@@ -22,6 +22,7 @@
  19. A - Raising Bacteria : [Codeforces Round #320 (Div. 2) [Bayan Thanks-Round]](https://codeforces.com/contest/579/problem/A)
  20. A - Tokitsukaze and All Zero Sequence : [Codeforces Round #789 (Div. 2)](https://codeforces.com/problemset/problem/1678/A)
  21. B - Borze : [Codeforces Beta Round #32 (Div. 2, Codeforces format)](https://codeforces.com/problemset/problem/32/B)
+ 22. A - IQ test : [Codeforces Beta Round #25 (Div. 2 Only)](https://codeforces.com/contest/25/problem/A)
 
 ## Leetcode
 
