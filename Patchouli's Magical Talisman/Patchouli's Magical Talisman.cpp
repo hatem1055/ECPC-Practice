@@ -1,3 +1,6 @@
+// created by kareem sakkary
+// last change : 5/6/2022
+// link : https://codeforces.com/contest/1688/problem/B
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
@@ -25,25 +28,11 @@ int main()
         if(odd){
             cout << even << endl;
         }else{
-            bool flag = false;
-            for(int i = 0 ;i < n ; i++){
-                if((a[i]/2)%2==1){
-                    flag = true;
-                    break;
-                }
-            }
-            if(flag){
-                cout << even << endl;
-            }else{
-                long long  mn = *min_element(a, a + n);
-                int c = 0;
-                while(mn%2==0){
-                    mn/=2;
-                    c++;
-                }
-                cout << c+even-1<< endl;
-            }
+            int mn=800;
+            for(int i = 0 ; i<n ; i++)
+                mn =  min(mn , __builtin_ffs(a[i])-1);
+            cout << mn+even-1 << endl;
         }
-    }
+        }
     return 0;
 }
