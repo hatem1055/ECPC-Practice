@@ -1,6 +1,8 @@
 class Solution {
 	bool isValid(vector<vector<char>> board, int row, int col, char c) {
 		for (int i = 0; i < 9; i++) {
+			// If the char is found in the same rows or the same column or the 3x3 square that surround it , then false is returned 
+			// We cannot put that char 
 			if (board[i][col] != '.' && board[i][col] == c) return false; //check row
 			if (board[row][i] != '.' && board[row][i] == c) return false; //check column
 			if (board[3 * (row / 3) + i / 3][3 * (col / 3) + i % 3] != '.' &&
