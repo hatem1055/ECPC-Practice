@@ -26,6 +26,7 @@
  23. C - Most Similar Words : [Codeforces Round #790 (Div. 4)](https://codeforces.com/problemset/problem/1676/C)
  24. A - Theatre Square : [Codeforces Beta Round #1](https://codeforces.com/contest/1/problem/A)
  25. A - Squats : [Codeforces Round #242 (Div. 2)](https://codeforces.com/contest/424/problem/A)
+ 26. A - Cut Ribbon : [Codeforces Round #119 (Div. 2)](https://codeforces.com/contest/189/problem/A)
 
 ## Leetcode
 
