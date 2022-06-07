@@ -29,6 +29,7 @@
  26. A - Cut Ribbon : [Codeforces Round #119 (Div. 2)](https://codeforces.com/contest/189/problem/A)
  27. A - Domino piling : [Codeforces Beta Round #47](https://codeforces.com/contest/50/problem/A)
  28. B - Equal Candies : [Codeforces Round #790 (Div. 4)](https://codeforces.com/problemset/problem/1676/B)
+ 29. A - Is your horseshoe on the other hoof? : [Codeforces Round #141 (Div. 2)](https://codeforces.com/problemset/problem/228/A)
 
 ## Leetcode
 
