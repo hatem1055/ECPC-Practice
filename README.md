@@ -30,6 +30,8 @@
  27. A - Domino piling : [Codeforces Beta Round #47](https://codeforces.com/contest/50/problem/A)
  28. B - Equal Candies : [Codeforces Round #790 (Div. 4)](https://codeforces.com/problemset/problem/1676/B)
  29. A - Is your horseshoe on the other hoof? : [Codeforces Round #141 (Div. 2)](https://codeforces.com/problemset/problem/228/A)
+ 30. A - Print a Pedestal (Codeforces logo?) : [Codeforces Round #797 (Div. 3)](https://codeforces.com/contest/1690/problem/A)
+ 31. B - T-primes [Codeforces Round #142 (Div. 2)](https://codeforces.com/problemset/problem/230/B)
 
 ## Leetcode
 
