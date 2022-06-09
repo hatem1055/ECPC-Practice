@@ -35,6 +35,7 @@
  32. A - Ultra-Fast Mathematician : [Codeforces Beta Round #57 (Div. 2)](https://codeforces.com/problemset/problem/61/A)
  33. B - Honest Coach : [Codeforces Round #644 (Div. 3)](https://codeforces.com/problemset/problem/1360/B)
  34. C - Registration system : [Codeforces Beta Round #4 (Div. 2 Only)](https://codeforces.com/contest/4/problem/C)
+ 35. B - Dictionary : [Codeforces Round #786 (Div. 3)](https://codeforces.com/problemset/problem/1674/B)
 
 ## Leetcode
 
