@@ -37,6 +37,7 @@
  34. C - Registration system : [Codeforces Beta Round #4 (Div. 2 Only)](https://codeforces.com/contest/4/problem/C)
  35. B - Dictionary : [Codeforces Round #786 (Div. 3)](https://codeforces.com/problemset/problem/1674/B)
  36. A - Lex String : [Codeforces Round #798 (Div. 2)](https://codeforces.com/contest/1689/problem/A)
+ 37. A - Anton and Danik : [Codeforces Round #379 (Div. 2)](https://codeforces.com/problemset/problem/734/A)
 
 ## Leetcode
 
