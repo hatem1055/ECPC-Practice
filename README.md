@@ -38,6 +38,7 @@
  35. B - Dictionary : [Codeforces Round #786 (Div. 3)](https://codeforces.com/problemset/problem/1674/B)
  36. A - Lex String : [Codeforces Round #798 (Div. 2)](https://codeforces.com/contest/1689/problem/A)
  37. A - Anton and Danik : [Codeforces Round #379 (Div. 2)](https://codeforces.com/problemset/problem/734/A)
+ 38. D - Black and White Stripe: [Codeforces Round #797 (Div. 3)](https://codeforces.com/problemset/problem/1690/D)
 
 ## Leetcode
 
