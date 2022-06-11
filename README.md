@@ -40,6 +40,7 @@
  37. A - Anton and Danik : [Codeforces Round #379 (Div. 2)](https://codeforces.com/problemset/problem/734/A)
  38. D - Black and White Stripe: [Codeforces Round #797 (Div. 3)](https://codeforces.com/problemset/problem/1690/D)
  39. B - Sort the Array : [Codeforces Round #258 (Div. 2)](https://codeforces.com/contest/451/problem/B)
+ 40. C - Restoring the Duration of Tasks: [Codeforces Round #797 (Div. 3)](https://codeforces.com/problemset/problem/1690/C)
 
 ## Leetcode
 
