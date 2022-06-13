@@ -44,6 +44,7 @@
  41. B - Multiply by 2, divide by 6: [Codeforces Round #653 (Div. 3)](https://codeforces.com/problemset/problem/1374/B)
  42. A - Collecting Coins : [Codeforces Round #615 (Div. 3)](https://codeforces.com/problemset/problem/1294/A)
  43. B - File Name : [Codeforces Round #481 (Div. 3)](https://codeforces.com/problemset/problem/978/B)
+ 44. A - Bit++ : [Codeforces Round #173 (Div. 2)](https://codeforces.com/problemset/problem/282/A)
 
 ## Leetcode
 
