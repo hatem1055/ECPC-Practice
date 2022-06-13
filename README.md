@@ -43,6 +43,7 @@
  40. C - Restoring the Duration of Tasks: [Codeforces Round #797 (Div. 3)](https://codeforces.com/problemset/problem/1690/C)
  41. B - Multiply by 2, divide by 6: [Codeforces Round #653 (Div. 3)](https://codeforces.com/problemset/problem/1374/B)
  42. A - Collecting Coins : [Codeforces Round #615 (Div. 3)](https://codeforces.com/problemset/problem/1294/A)
+ 43. B - File Name : [Codeforces Round #481 (Div. 3)](https://codeforces.com/problemset/problem/978/B)
 
 ## Leetcode
 
