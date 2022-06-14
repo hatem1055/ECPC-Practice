@@ -46,6 +46,7 @@
  43. B - File Name : [Codeforces Round #481 (Div. 3)](https://codeforces.com/problemset/problem/978/B)
  44. A - Bit++ : [Codeforces Round #173 (Div. 2)](https://codeforces.com/problemset/problem/282/A)
  45. C - Where's the Bishop? [Codeforces Round #799 (Div. 4)](https://codeforces.com/contest/1692/problem/C)
+ 46. A - Marathon: [Codeforces Round #799 (Div. 4)](https://codeforces.com/contest/1692/problem/A)
 
 ## Leetcode
 
