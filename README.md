@@ -48,6 +48,7 @@
  45. C - Where's the Bishop? [Codeforces Round #799 (Div. 4)](https://codeforces.com/contest/1692/problem/C)
  46. A - Marathon: [Codeforces Round #799 (Div. 4)](https://codeforces.com/contest/1692/problem/A)
  47. A - Cut Ribbon: [Codeforces Round #119 (Div. 2)](https://codeforces.com/problemset/problem/189/A)
+ 48. A - String Task : [Codeforces Beta Round #89 (Div. 2)](https://codeforces.com/contest/118/problem/A)
 
 ## Leetcode
 
