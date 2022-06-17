@@ -51,6 +51,7 @@
  48. A - String Task : [Codeforces Beta Round #89 (Div. 2)](https://codeforces.com/contest/118/problem/A)
  49. A - Stones on the Table : [Codeforces Round #163 (Div. 2)](https://codeforces.com/contest/266/problem/A)
  50. B - Balanced Array : [Codeforces Round #636 (Div. 3)](https://codeforces.com/contest/1343/problem/B)
+ 51. A - Young Physicist : [Codeforces Beta Round #63 (Div. 2)](https://codeforces.com/problemset/problem/69/A)
 
 ## Leetcode
 
