@@ -1,0 +1,25 @@
+#include <iostream>
+#include <string>
+#include <vector>
+#include <cstring>
+using namespace std;
+string abb() ;
+int main() {
+    string word {};
+    int n {} ;
+    vector<string> words{} ;
+    cin >> n ;
+    for ( int i {1} ; i <= n ; i++){
+     cin>>word ;
+     words.push_back(word);
+         }
+     
+    for (auto c : words ){
+        if( c.length() <= 10){
+            cout << c << endl ;
+        }else {
+            cout << c[0] << c.length()-2 << c[c.length()-1] << endl ;
+        }
+    }
+    return 0 ;
+}
