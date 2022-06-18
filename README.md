@@ -53,6 +53,7 @@
  50. B - Balanced Array : [Codeforces Round #636 (Div. 3)](https://codeforces.com/contest/1343/problem/B)
  51. A - Young Physicist : [Codeforces Beta Round #63 (Div. 2)](https://codeforces.com/problemset/problem/69/A)
  52. B - Interesting drink: [Codeforces Round #367 (Div. 2)](https://codeforces.com/problemset/problem/706/B)
+ 53. A - Subrectangle Guess : [Codeforces Round #801 (Div. 2) and EPIC Institute of Technology Round](https://codeforces.com/contest/1695/problem/A)
 
 ## Leetcode
 
