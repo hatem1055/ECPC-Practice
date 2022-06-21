@@ -56,6 +56,7 @@
  53. A - Subrectangle Guess : [Codeforces Round #801 (Div. 2) and EPIC Institute of Technology Round](https://codeforces.com/contest/1695/problem/A)
  54. B -Equal Candies[Codeforces Round #790 (Div. 4)](https://codeforces.com/problemset/problem/1676/B)
  55. A - Chat room :  [Codeforces Beta Round #54 (Div. 2)](https://codeforces.com/contest/58/problem/A)
+ 56. A - Police Recruits :[Codeforces Round #244 (Div. 2)](https://codeforces.com/problemset/status?my=on)
 
 ## Leetcode
 
