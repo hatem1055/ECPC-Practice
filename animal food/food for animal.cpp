@@ -1,3 +1,6 @@
+// created by kareem sakkary
+// last change : 21/6/2022
+// link : https://codeforces.com/contest/1675/problem/A
 #include <bits/stdc++.h>
 using namespace std;
 
