@@ -71,7 +71,6 @@
  8. Range Sum Query 2D - Immutable [Problem #304](https://leetcode.com/problems/range-sum-query-2d-immutable/)
  9. Delete Operation for Two Strings[Problem #583](https://leetcode.com/problems/delete-operation-for-two-strings/)
  10. Game of Life [Problem #289](https://leetcode.com/problems/game-of-life/) 
- 11.Find the Highest Altitude [Problem #1732](https://leetcode.com/problems/find-the-highest-altitude/)
 ## AtCoder
 
  1. B - Intersection : [AtCoder Beginner contest 199](https://atcoder.jp/contests/abc199/tasks/abc199_b?lang=e)
