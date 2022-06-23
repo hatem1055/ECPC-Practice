@@ -58,6 +58,7 @@
  55. A - Chat room :  [Codeforces Beta Round #54 (Div. 2)](https://codeforces.com/contest/58/problem/A)
  56. A - Police Recruits :[Codeforces Round #244 (Div. 2)](https://codeforces.com/problemset/status?my=on)
  57. A - Petya and Strings : [Codeforces Beta Round #85 (Div. 2 Only)](https://codeforces.com/problemset/problem/112/A)
+ 58. A - Fox And Snake : [Codeforces Round #290 (Div. 2)](https://codeforces.com/problemset/problem/510/A)
 
 ## Leetcode
 
@@ -87,6 +88,7 @@
  24. Valid Sudoku [problem #36 ](https://leetcode.com/problems/valid-sudoku/)
  25. Two Sum II - Input Array Is Sorted [problem #267 ](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
  26. Furthest Building You Can Reach [Problem # 1642](https://leetcode.com/problems/furthest-building-you-can-reach/)
+ 27.
  
 ## AtCoder
 
