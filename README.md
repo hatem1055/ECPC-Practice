@@ -58,6 +58,7 @@
  55. A - Chat room :  [Codeforces Beta Round #54 (Div. 2)](https://codeforces.com/contest/58/problem/A)
  56. A - Police Recruits :[Codeforces Round #244 (Div. 2)](https://codeforces.com/problemset/status?my=on)
  57. A - Petya and Strings : [Codeforces Beta Round #85 (Div. 2 Only)](https://codeforces.com/problemset/problem/112/A)
+ 58. A - Fox And Snake : [Codeforces Round #290 (Div. 2)](https://codeforces.com/problemset/problem/510/A)
 
 ## Leetcode
 
@@ -69,6 +70,26 @@
  6. Check If a String Contains All Binary Codes of Size K [Problem #1461](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
  7. Maximum Number of Darts Inside of a Circular Dartboard [Problem #1453](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/)
  8. Range Sum Query 2D - Immutable [Problem #304](https://leetcode.com/problems/range-sum-query-2d-immutable/)
+ 9. Delete Operation for Two Strings[Problem #583](https://leetcode.com/problems/delete-operation-for-two-strings/)
+ 10. Game of Life [Problem #289](https://leetcode.com/problems/game-of-life/) 
+ 11. Find the Highest Altitude [Problem #1732](https://leetcode.com/problems/find-the-highest-altitude/)
+ 12. Length of Last Word [Problem #58](https://leetcode.com/problems/length-of-last-word/)
+ 13. Longest Palindromic Substring [Problem #5](https://leetcode.com/problems/longest-palindromic-substring/)
+ 14. Maximum Erasure Value [Problem #1695](https://leetcode.com/problems/maximum-erasure-value/)
+ 15. Merge Sorted Array [Problem #88](https://leetcode.com/problems/merge-sorted-array/)
+ 16. Remove Palindromic Subsequences [Problem #1332](https://leetcode.com/problems/remove-palindromic-subsequences/)
+ 17. Replace Elements in an Array [problem #2295 ](https://leetcode.com/problems/replace-elements-in-an-array/)
+ 18.Search Insert Position [problem #35 ](https://leetcode.com/problems/search-insert-position/)
+ 19. Squares of a Sorted Array -O(N) Complexity [problem #977 ](https://leetcode.com/problems/squares-of-a-sorted-array/)
+ 20. Successful Pairs of Spells and Potions [problem #2300 ](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)
+ 21. Sudoku Solver [problem #37 ](https://leetcode.com/problems/sudoku-solver/)
+ 22. Sum of Numbers With Units Digit K [problem #2310 ](https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/)
+ 23. Triangle [problem #120 ](https://leetcode.com/problems/triangle/)
+ 24. Valid Sudoku [problem #36 ](https://leetcode.com/problems/valid-sudoku/)
+ 25. Two Sum II - Input Array Is Sorted [problem #267 ](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+ 26. Furthest Building You Can Reach [Problem # 1642](https://leetcode.com/problems/furthest-building-you-can-reach/)
+ 27.
+ 
 ## AtCoder
 
  1. B - Intersection : [AtCoder Beginner contest 199](https://atcoder.jp/contests/abc199/tasks/abc199_b?lang=e)
@@ -79,4 +100,8 @@
  2. Pairs: [Prepare-Algorithms-Search](https://www.hackerrank.com/challenges/pairs/problem)
  3. Simple Text Editor : [One Week Preparation Kit - Day 6](https://www.hackerrank.com/challenges/one-week-preparation-kit-simple-text-editor/problem)
  4. Truck Tour : [Prepare - Dara Structures - Queues](https://www.hackerrank.com/challenges/truck-tour/problem?h_r=internal-search)
+ 5. Encryption :[Prepare - Algorithms - Implementation](https://www.hackerrank.com/challenges/encryption/problem)
+ 6. Flipping The Matrix :[Prepare - Algorithms - Constructive Algorithms](https://www.hackerrank.com/challenges/flipping-the-matrix/problem)
+ 7. Queue Using Two Stacks: [Data Structures - Queues](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)
+ 8. Sherlock and the Valid String [Prepare - Algorithms - Strings](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem)
  
