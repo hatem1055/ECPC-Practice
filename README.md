@@ -86,6 +86,7 @@
  23. Triangle [problem #120 ](https://leetcode.com/problems/triangle/)
  24. Valid Sudoku [problem #36 ](https://leetcode.com/problems/valid-sudoku/)
  25. Two Sum II - Input Array Is Sorted [problem #267 ](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+ 26. Furthest Building You Can Reach [Problem # 1642](https://leetcode.com/problems/furthest-building-you-can-reach/)
  
 ## AtCoder
 
@@ -97,4 +98,8 @@
  2. Pairs: [Prepare-Algorithms-Search](https://www.hackerrank.com/challenges/pairs/problem)
  3. Simple Text Editor : [One Week Preparation Kit - Day 6](https://www.hackerrank.com/challenges/one-week-preparation-kit-simple-text-editor/problem)
  4. Truck Tour : [Prepare - Dara Structures - Queues](https://www.hackerrank.com/challenges/truck-tour/problem?h_r=internal-search)
+ 5. Encryption :[Prepare - Algorithms - Implementation](https://www.hackerrank.com/challenges/encryption/problem)
+ 6. Flipping The Matrix :[Prepare - Algorithms - Constructive Algorithms](https://www.hackerrank.com/challenges/flipping-the-matrix/problem)
+ 7. Queue Using Two Stacks: [Data Structures - Queues](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)
+ 8. Sherlock and the Valid String [Prepare - Algorithms - Strings](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem)
  
