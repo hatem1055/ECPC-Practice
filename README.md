@@ -71,6 +71,22 @@
  8. Range Sum Query 2D - Immutable [Problem #304](https://leetcode.com/problems/range-sum-query-2d-immutable/)
  9. Delete Operation for Two Strings[Problem #583](https://leetcode.com/problems/delete-operation-for-two-strings/)
  10. Game of Life [Problem #289](https://leetcode.com/problems/game-of-life/) 
+ 11. Find the Highest Altitude [Problem #1732](https://leetcode.com/problems/find-the-highest-altitude/)
+ 12. Length of Last Word [Problem #58](https://leetcode.com/problems/length-of-last-word/)
+ 13. Longest Palindromic Substring [Problem #5](https://leetcode.com/problems/longest-palindromic-substring/)
+ 14. Maximum Erasure Value [Problem #1695](https://leetcode.com/problems/maximum-erasure-value/)
+ 15. Merge Sorted Array [Problem #88](https://leetcode.com/problems/merge-sorted-array/)
+ 16. Remove Palindromic Subsequences [Problem #1332](https://leetcode.com/problems/remove-palindromic-subsequences/)
+ 17. Replace Elements in an Array [problem #2295 ](https://leetcode.com/problems/replace-elements-in-an-array/)
+ 18.Search Insert Position [problem #35 ](https://leetcode.com/problems/search-insert-position/)
+ 19. Squares of a Sorted Array -O(N) Complexity [problem #977 ](https://leetcode.com/problems/squares-of-a-sorted-array/)
+ 20. Successful Pairs of Spells and Potions [problem #2300 ](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)
+ 21. Sudoku Solver [problem #37 ](https://leetcode.com/problems/sudoku-solver/)
+ 22. Sum of Numbers With Units Digit K [problem #2310 ](https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/)
+ 23. Triangle [problem #120 ](https://leetcode.com/problems/triangle/)
+ 24. Valid Sudoku [problem #36 ](https://leetcode.com/problems/valid-sudoku/)
+ 25. Two Sum II - Input Array Is Sorted [problem #267 ](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+ 
 ## AtCoder
 
  1. B - Intersection : [AtCoder Beginner contest 199](https://atcoder.jp/contests/abc199/tasks/abc199_b?lang=e)
