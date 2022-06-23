@@ -69,7 +69,7 @@
  6. Check If a String Contains All Binary Codes of Size K [Problem #1461](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
  7. Maximum Number of Darts Inside of a Circular Dartboard [Problem #1453](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/)
  8. Range Sum Query 2D - Immutable [Problem #304](https://leetcode.com/problems/range-sum-query-2d-immutable/)
- 9. Delete Operation for Two Strings (https://leetcode.com/problems/delete-operation-for-two-strings/)
+ 9. Delete Operation for Two Strings[Problem #583] (https://leetcode.com/problems/delete-operation-for-two-strings/)
 ## AtCoder
 
  1. B - Intersection : [AtCoder Beginner contest 199](https://atcoder.jp/contests/abc199/tasks/abc199_b?lang=e)
