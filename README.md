@@ -59,7 +59,9 @@
  56. A - Police Recruits :[Codeforces Round #244 (Div. 2)](https://codeforces.com/problemset/status?my=on)
  57. A - Petya and Strings : [Codeforces Beta Round #85 (Div. 2 Only)](https://codeforces.com/problemset/problem/112/A)
  58. A - Fox And Snake : [Codeforces Round #290 (Div. 2)](https://codeforces.com/problemset/problem/510/A)
-
+ 59. A - Team Olympiad : [Codeforces Round #279 (Div. 2)](https://codeforces.com/problemset/problem/490/A)
+ 
+ 
 ## Leetcode
 
  1. Find the Town Judge : [Problem #997](https://leetcode.com/problems/find-the-town-judge/)
