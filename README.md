@@ -60,6 +60,7 @@
  57. A - Petya and Strings : [Codeforces Beta Round #85 (Div. 2 Only)](https://codeforces.com/problemset/problem/112/A)
  58. A - Fox And Snake : [Codeforces Round #290 (Div. 2)](https://codeforces.com/problemset/problem/510/A)
  59. A - Team Olympiad : [Codeforces Round #279 (Div. 2)](https://codeforces.com/problemset/problem/490/A)
+ 60. B - NIT Destroys the Universe : [Codeforces Global Round 21](https://codeforces.com/contest/1696/problem/B)
  
  
 ## Leetcode
