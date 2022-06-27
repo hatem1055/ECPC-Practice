@@ -95,6 +95,7 @@
  27.  Course Schedule III [Problem #630](https://leetcode.com/problems/course-schedule-iii/)
  28.  Watering Plants [Problem #2079](https://leetcode.com/problems/watering-plants/)
  29.  Construct Target Array With Multiple Sums [Problem #1354](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
+ 30.  Count Unreachable Pairs of Nodes in an Undirected Graph [Problem #2316](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)
  
 ## AtCoder
 
