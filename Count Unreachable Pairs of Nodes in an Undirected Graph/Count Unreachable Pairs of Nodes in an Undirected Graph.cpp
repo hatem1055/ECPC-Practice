@@ -37,8 +37,8 @@ public:
 			{
 				NoOfPoints = 0;
 				DFS(graph, i, visited, NoOfPoints);
-				// result  -> gives the total numbers of connected points 
-				// Then we get the to know how many pairs does the (result) points have
+				// NoOfPoints  -> gives the total numbers of connected points 
+				// Then we get the to know how many pairs does the (NoOfPoints) points have
 				// Then subtract it from total no of pairs of the graph
 				// so on untill we have the last number of unreachable pairs
 				ans -= (NoOfPoints * (NoOfPoints - 1)) / 2;;
