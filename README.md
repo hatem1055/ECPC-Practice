@@ -63,6 +63,7 @@
  60. B - NIT Destroys the Universe : [Codeforces Global Round 21](https://codeforces.com/contest/1696/problem/B)
  61. A - HQ9+ : [Codeforces Beta Round #96 (Div. 2)](https://codeforces.com/problemset/problem/133/A)
  62. B - Fence : [Codeforces Round #211 (Div. 2)](https://codeforces.com/problemset/problem/363/B)
+ 63. A - Stones on the Table : [Codeforces Round #163 (Div. 2)](https://codeforces.com/contest/266/problem/A)
  
  
 ## Leetcode
