@@ -66,6 +66,7 @@
  63. A - watermelon : [Codeforces Beta Round #4 (Div. 2 Only)](https://codeforces.com/problemset/problem/4/A)
  64. A - Boy or Girl : [Codeforces Round #146 (Div. 2)](https://codeforces.com/problemset/problem/236/A)
  65. B - XOR Mixup : [Codeforces Round #803 (Div. 2)](https://codeforces.com/contest/1698/problem/A)
+ 66. A - Team : [Codeforces Round #143 (Div. 2)](https://codeforces.com/problemset/problem/231/A)
  
  
 ## Leetcode
