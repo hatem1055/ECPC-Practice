@@ -64,6 +64,7 @@
  61. A - HQ9+ : [Codeforces Beta Round #96 (Div. 2)](https://codeforces.com/problemset/problem/133/A)
  62. B - Fence : [Codeforces Round #211 (Div. 2)](https://codeforces.com/problemset/problem/363/B)
  63. A - watermelon : [Codeforces Beta Round #4 (Div. 2 Only)](https://codeforces.com/problemset/problem/4/A)
+ 64. A - Boy or Girl : [Codeforces Round #146 (Div. 2)](https://codeforces.com/problemset/problem/236/A)
  
  
 ## Leetcode
