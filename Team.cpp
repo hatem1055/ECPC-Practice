@@ -1,21 +1,14 @@
+//https://codeforces.com/problemset/problem/231/A
 #include <iostream>
 using namespace std;
-int main () {
-    int n {} ;
-    int petya {} ;
-    int vasya {} ;
-    int sonya {} ;
-    int counter {} ;
-    cin >> n ;
-    for (int i{0} ; i < n ; i++) {
-        cin >> petya ;
-        cin >> vasya ; 
-        cin >>sonya ;
-        if ( petya && vasya == 1 || petya && sonya == 1 || vasya && sonya == 1 || petya && vasya && sonya ==1){
-            counter ++ ;
-        }
-    }
-    cout << counter ;
-    
-    return 0 ;
+int main() {
+    int num,a,b,c,count;
+    count =0;
+    cin>>num;
+    for(int i = 1;i<=num;i++){
+        cin>>a>>b>>c;
+        if((a == 1 && b ==1) ||(a==1 && c ==1) ||(b==1&&c==1)){
+            count++;
+        }}
+    cout<<count;
 }
