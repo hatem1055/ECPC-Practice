@@ -71,7 +71,7 @@ Fishingprince Plays With Array# ECPC Practice - Solved Problems
  68. A - Lucky? : [Codeforces Round #790 (Div. 4)](https://codeforces.com/contest/1676/problem/A)
  69. A - Soldier and Bananas : [Codeforces Round #304 (Div. 2)] (https://codeforces.com/problemset/problem/546/A)
  70. A - Black Square : [Codeforces Round #247 (Div. 2)] (https://codeforces.com/contest/431/problem/A)
- 
+ 71. C - Fishingprince Plays With Array : [Codeforces Global Round 21](https://codeforces.com/contest/1696/problem/C)
 ## Leetcode
 
  1. Find the Town Judge : [Problem #997](https://leetcode.com/problems/find-the-town-judge/)
