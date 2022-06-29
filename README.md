@@ -1,4 +1,4 @@
-# ECPC Practice - Solved Problems
+Fishingprince Plays With Array# ECPC Practice - Solved Problems
 ## CodeForces
 
  1. B - Dorms of war : [Codeforces Round #788 (Div. 2)](https://codeforces.com/contest/1670)
