@@ -69,6 +69,7 @@
  66. A - Team : [Codeforces Round #143 (Div. 2)](https://codeforces.com/problemset/problem/231/A)
  67. B -Fair Division :[Codeforces Round #693 (Div. 3)](//codeforces.com/problemset/problem/1472/B)
  68. A - Lucky? : [Codeforces Round #790 (Div. 4)](https://codeforces.com/contest/1676/problem/A)
+ 69. A - Soldier and Bananas : [Codeforces Round #304 (Div. 2)] (https://codeforces.com/problemset/problem/546/A)
  
 ## Leetcode
 
