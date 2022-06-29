@@ -1,32 +1,13 @@
+//code link:https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E
 #include <iostream>
-#include <string>
-
-int i;
+#include <iomanip>
 using namespace std;
+int main(){
+    cout << fixed << setprecision(9);
+   double x,area;
+    cin>>x;
 
-int main() {
-    int size;
-    cout<<"Enter the number of tickets."<<endl;
-    cin >> size;
-    string arr[size];
-    for (int i = 0; i < size; i++) {
-        cin >> arr[i];
-        while (arr[i].size() != 6) {
-            cout << "The ticket must be 5 digits" << endl;
-            cin >> arr[i];
-
-        }
-
-    }
-    for(int j=0;j< size ;j++){
-        if (((arr[j].at(1)-0) + (arr[j].at(0)-0) + (arr[j].at(2)-0)) == (arr[j].at(3)-0) + (arr[j].at(4)-0) + (arr[j].at(5)-0)) {
-            cout << "YES"<<endl;
-
-        }else cout<<"NO"<<endl;
-
-
-
-
-    }
+    area= (x*x) * 3.141592653;
+    cout<<area;
+    return 0;
 }
-
