@@ -72,6 +72,7 @@ Fishingprince Plays With Array# ECPC Practice - Solved Problems
  69. A - Soldier and Bananas : [Codeforces Round #304 (Div. 2)] (https://codeforces.com/problemset/problem/546/A)
  70. A - Black Square : [Codeforces Round #247 (Div. 2)] (https://codeforces.com/contest/431/problem/A)
  71. C - Fishingprince Plays With Array : [Codeforces Global Round 21](https://codeforces.com/contest/1696/problem/C)
+ 72. A - Nearly Lucky Number : [Codeforces Beta Round #84 (Div. 2 Only)] (https://codeforces.com/problemset/problem/110/A)
 ## Leetcode
 
  1. Find the Town Judge : [Problem #997](https://leetcode.com/problems/find-the-town-judge/)
@@ -119,4 +120,5 @@ Fishingprince Plays With Array# ECPC Practice - Solved Problems
  6. Flipping The Matrix :[Prepare - Algorithms - Constructive Algorithms](https://www.hackerrank.com/challenges/flipping-the-matrix/problem)
  7. Queue Using Two Stacks: [Data Structures - Queues](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)
  8. Sherlock and the Valid String [Prepare - Algorithms - Strings](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem)
+ 
  
