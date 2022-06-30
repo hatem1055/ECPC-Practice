@@ -1,13 +1,25 @@
-//code link:https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E
 #include <iostream>
-#include <iomanip>
+#include <bits/stdc++.h>
 using namespace std;
-int main(){
-    cout << fixed << setprecision(9);
-   double x,area;
-    cin>>x;
 
-    area= (x*x) * 3.141592653;
-    cout<<area;
-    return 0;
+int main() {
+    int nbox,turns;
+    cin>>turns;
+    while(turns--) {
+        cin >> nbox;
+        int totaleated_candies=0;
+        int nofcandies[nbox], eatencandies[nbox];
+        for (int i = 0; i < nbox; i++) {
+            cin >> nofcandies[i];
+        }
+        sort(nofcandies, nofcandies + nbox);
+        for (int j = 0; j < nbox; j++) {
+            eatencandies[j] = nofcandies[j] - nofcandies[0];
+        }
+        for (int c = 0; c < nbox; c++) {
+            totaleated_candies += eatencandies[c];
+        }
+
+        cout << totaleated_candies<<endl;
+    }
 }
