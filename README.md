@@ -1,4 +1,5 @@
 Fishingprince Plays With Array# ECPC Practice - Solved Problems
+ 
 ## CodeForces
 
  1. B - Dorms of war : [Codeforces Round #788 (Div. 2)](https://codeforces.com/contest/1670)
@@ -126,4 +127,50 @@ Fishingprince Plays With Array# ECPC Practice - Solved Problems
  7. Queue Using Two Stacks: [Data Structures - Queues](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)
  8. Sherlock and the Valid String [Prepare - Algorithms - Strings](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem)
  
+ <div align="center">
  
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Vujahday+Script&size=40&color=000000&center=true&vCenter=true&width=600&lines=DASHBOARD)](https://git.io/typing-svg)</h3>
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+ 
+ 
+| Name | No. of Streaks    | Solved   | Unsolved  | Team |                           
+| :---: | :---: | :---: | :---: | :---:|
+| Abdelrhman Reda | 1 | 1 | 0 | Spider_main() | 
+| Abdullah Hegab | 2 | 3 | 1 | Others | 
+| Ahmed Tarek | 3 | 3 | 0 | Others | 
+| Ahmed Yehia | 5 | 5 | 0 | Code-Killers | 
+| Asmaa Heikal | 5 | 5 | 0 | ARK-team | 
+| Fares | 3 | 3 | 0 | Others | 
+| Hatem | 2 | 2 | 2 | H2O | 
+| Hossam | 5 | 5 | 0 | H2O | 
+| Huda  Samir | 5 | 5 | 0 | Brownies | 
+| Joe Salem | -1 | 0 | 1 | Others | 
+| Kareem Sakkary | 5 | 5 | 0 | ARK-team | 
+| Mahmoud | 1 | 1 | 0 | Others | 
+| Mahmoud Aziz | 1 | 1 | 0 | Spider_main() | 
+| Maram Wael | -4 | 0 | 4 | SYM-Error | 
+| Maya Hisham | 1 | 2 | 2 | Brownies | 
+| Merna | 4 | 4 | 0 | Debug Entity | 
+| Mohamed Nabil | -2 | 1 | 3 | Others | 
+| Mohamed Waleed | 5 | 5 | 0 | Others | 
+| Mohaned Hesham | 4 | 4 | 0 | Code-Killers | 
+| Nada Mohamed | 5 | 5 | 0 | Brownies | 
+| Noor Eyad | 1 | 1 | 3 | Debug Entity | 
+| Nour El Dean | 3 | 3 | 0 | Code-Killers | 
+| Nour Mohamed | 3 | 4 | 1 | Debug Entity | 
+| Nourhan | 4 | 4 | 0 | Others | 
+| Nourhan Ibrahim | 1 | 1 | 0 | Spider_main() | 
+| Omar Baddour | -1 | 1 | 3 | Others | 
+| Omar Gaafar | 5 | 5 | 0 | H2O | 
+| Rana Essam | 5 | 5 | 0 | ARK-team | 
+| Shahd Moamen | 4 | 4 | 0 | SYM-Error | 
+| Shahd Mostafa | 1 | 1 | 1 | Others | 
+| Tolba | 2 | 3 | 1 | Others | 
+| yehia yasser | -4 | 0 | 4 | Others | 
+| Yoused Diaa | 1 | 1 | 1 | Others | 
+| Yousef Alaa | 3 | 3 | 0 | SYM-Error | 
+
+</div>
