@@ -159,7 +159,7 @@ Fishingprince Plays With Array# ECPC Practice - Solved Problems
 | Mohaned Hesham 🔥 | 4 | 4 | 0 | Code-Killers | 
 | Nada Mohamed 🔥 | 5 | 5 | 0 | Brownies | 
 | Noor Eyad 🔥 | 1 | 1 | 3 | Debug Entity | 
-| Nour El Dean 🔥 | 3 | 3 | 0 | Code-Killers | 
+| Nour El Dean 🔥 | 4 | 4 | 0 | Code-Killers | 
 | Nour Mohamed 🔥 | 3 | 4 | 1 | Debug Entity | 
 | Nourhan 🔥 | 4 | 4 | 0 | Others | 
 | Nourhan Ibrahim 🔥 | 1 | 1 | 0 | Spider_main() | 
