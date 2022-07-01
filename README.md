@@ -74,6 +74,9 @@ Fishingprince Plays With Array# ECPC Practice - Solved Problems
  71. C - Fishingprince Plays With Array : [Codeforces Global Round 21](https://codeforces.com/contest/1696/problem/C)
  72. A - Nearly Lucky Number : [Codeforces Beta Round #84 (Div. 2 Only)] (https://codeforces.com/problemset/problem/110/A)
  73. A - Word Capitalization : [Codeforces Round #172 (Div. 2)] (https://codeforces.com/problemset/problem/281/A)
+ 74. A. Games : [Codeforces Round #164 (Div. 2)] (https://codeforces.com/contest/268/problem/A)
+
+ 
 ## Leetcode
 
  1. Find the Town Judge : [Problem #997](https://leetcode.com/problems/find-the-town-judge/)
