@@ -143,7 +143,7 @@ Fishingprince Plays With Array# ECPC Practice - Solved Problems
 | Ahmed Tarek 🔥 | 3 | 3 | 0 | Others | 
 | Ahmed Yehia 🔥 | 5 | 5 | 0 | Code-Killers | 
 | Asmaa Heikal 🔥 | 5 | 5 | 0 | ARK-team | 
-| Fares 🔥 | 3 | 3 | 0 | Others | 
+| Fares 🔥 | 4 | 4 | 0 | Others | 
 | Hatem 🔥 | 2 | 2 | 2 | H2O | 
 | Hossam 🔥 | 5 | 5 | 0 | H2O | 
 | Huda  Samir 🔥 | 5 | 5 | 0 | Brownies | 
