@@ -1,4 +1,4 @@
-Fishingprince Plays With Array# ECPC Practice - Solved Problems
+# ECPC Practice - Solved Problems
  
 ## CodeForces
 
@@ -75,8 +75,9 @@ Fishingprince Plays With Array# ECPC Practice - Solved Problems
  71. C - Fishingprince Plays With Array : [Codeforces Global Round 21](https://codeforces.com/contest/1696/problem/C)
  72. A - Nearly Lucky Number : [Codeforces Beta Round #84 (Div. 2 Only)](https://codeforces.com/problemset/problem/110/A)
  73. A - Word Capitalization : [Codeforces Round #172 (Div. 2)](https://codeforces.com/problemset/problem/281/A)
- 74. A. Games : [Codeforces Round #164 (Div. 2)](https://codeforces.com/contest/268/problem/A)
- 75. A. Buy a Shovel : [Codeforces Round #377 (Div. 2)](https://codeforces.com/contest/732/problem/A)
+ 74. A - Games : [Codeforces Round #164 (Div. 2)](https://codeforces.com/contest/268/problem/A)
+ 75. A - Buy a Shovel : [Codeforces Round #377 (Div. 2)](https://codeforces.com/contest/732/problem/A)
+ 76. B - Nirvana : [Codeforces Round #549 (Div. 2)](https://codeforces.com/problemset/problem/1143/B)
 
  
 ## Leetcode
