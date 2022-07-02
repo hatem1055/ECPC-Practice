@@ -76,6 +76,7 @@ Fishingprince Plays With Array# ECPC Practice - Solved Problems
  72. A - Nearly Lucky Number : [Codeforces Beta Round #84 (Div. 2 Only)] (https://codeforces.com/problemset/problem/110/A)
  73. A - Word Capitalization : [Codeforces Round #172 (Div. 2)] (https://codeforces.com/problemset/problem/281/A)
  74. A. Games : [Codeforces Round #164 (Div. 2)] (https://codeforces.com/contest/268/problem/A)
+ 75. A. Buy a Shovel : [Codeforces Round #377 (Div. 2)] (https://codeforces.com/contest/732/problem/A)
 
  
 ## Leetcode
