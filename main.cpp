@@ -1,21 +1,17 @@
 #include <iostream>
+#include <string>
 using namespace std;
+int main(){
+    int t;
+    cin>>t;
+    while(t--){
+        string user;
+        cin>>user;
+        if(user.size()>10){
+            cout<<user.at(0)<<user.size()-2<<user.at(user.size()-1)<<endl;
+        }else{
+            cout<<user<<endl;
+        }
 
-int main()
-{
-int m,a,b,n;
-cin >> n >> m >> a >> b;
-
-if(m*a > b){
-    int x = (n%m)*a;
-    if(x>b){
-        cout << n/m*b + b;
     }
-    else{
-        cout << n/m*b + x;
-    }
-}
-else{
-    cout << n*a;
-}
 }
