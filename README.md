@@ -1,4 +1,4 @@
-Fishingprince Plays With Array# ECPC Practice - Solved Problems
+# ECPC Practice - Solved Problems
  
 ## CodeForces
 
@@ -70,13 +70,16 @@ Fishingprince Plays With Array# ECPC Practice - Solved Problems
  66. A - Team : [Codeforces Round #143 (Div. 2)](https://codeforces.com/problemset/problem/231/A)
  67. B -Fair Division :[Codeforces Round #693 (Div. 3)](//codeforces.com/problemset/problem/1472/B)
  68. A - Lucky? : [Codeforces Round #790 (Div. 4)](https://codeforces.com/contest/1676/problem/A)
- 69. A - Soldier and Bananas : [Codeforces Round #304 (Div. 2)] (https://codeforces.com/problemset/problem/546/A)
- 70. A - Black Square : [Codeforces Round #247 (Div. 2)] (https://codeforces.com/contest/431/problem/A)
+ 69. A - Soldier and Bananas : [Codeforces Round #304 (Div. 2)](https://codeforces.com/problemset/problem/546/A)
+ 70. A - Black Square : [Codeforces Round #247 (Div. 2)](https://codeforces.com/contest/431/problem/A)
  71. C - Fishingprince Plays With Array : [Codeforces Global Round 21](https://codeforces.com/contest/1696/problem/C)
- 72. A - Nearly Lucky Number : [Codeforces Beta Round #84 (Div. 2 Only)] (https://codeforces.com/problemset/problem/110/A)
- 73. A - Word Capitalization : [Codeforces Round #172 (Div. 2)] (https://codeforces.com/problemset/problem/281/A)
- 74. A. Games : [Codeforces Round #164 (Div. 2)] (https://codeforces.com/contest/268/problem/A)
-
+ 72. A - Nearly Lucky Number : [Codeforces Beta Round #84 (Div. 2 Only)](https://codeforces.com/problemset/problem/110/A)
+ 73. A - Word Capitalization : [Codeforces Round #172 (Div. 2)](https://codeforces.com/problemset/problem/281/A)
+ 74. A - Games : [Codeforces Round #164 (Div. 2)](https://codeforces.com/contest/268/problem/A)
+ 75. A - Buy a Shovel : [Codeforces Round #377 (Div. 2)](https://codeforces.com/contest/732/problem/A)
+ 76. B - Nirvana : [Codeforces Round #549 (Div. 2)](https://codeforces.com/problemset/problem/1143/B)
+ 77. C - 3Sum closure : [Codeforces Round #803 (Div. 2)](https://codeforces.com/contest/1698/problem/C)
+ 78. F - 3SUM : [Codeforces Round #799 (Div. 4)](https://codeforces.com/contest/1692/problem/F)
  
 ## Leetcode
 
@@ -138,37 +141,37 @@ Fishingprince Plays With Array# ECPC Practice - Solved Problems
  
 | Name | No. of Streaks    | Solved   | Unsolved  | Team |                           
 | :---: | :---: | :---: | :---: | :---:|
-| Abdelrhman Reda 🔥 | 1 | 1 | 0 | Spider_main() | 
-| Abdullah Hegab 🔥 | 2 | 3 | 1 | Others | 
-| Ahmed Tarek 🔥 | 3 | 3 | 0 | Others | 
-| Ahmed Yehia 🔥 | 5 | 5 | 0 | Code-Killers | 
-| Asmaa Heikal 🔥 | 5 | 5 | 0 | ARK-team | 
-| Fares 🔥 | 4 | 4 | 0 | Others | 
-| Hatem 🔥 | 2 | 2 | 2 | H2O | 
-| Hossam 🔥 | 5 | 5 | 0 | H2O | 
-| Huda  Samir 🔥 | 5 | 5 | 0 | Brownies | 
-| Joe Salem 😡 | -1 | 0 | 1 | Others | 
-| Kareem Sakkary 🔥 | 5 | 5 | 0 | ARK-team | 
-| Mahmoud 🔥 | 1 | 1 | 0 | Others | 
-| Mahmoud Aziz 🔥 | 1 | 1 | 0 | Spider_main() | 
-| Maram Wael 😡 | -4 | 0 | 4 | SYM-Error | 
-| Maya Hisham 🔥 | 1 | 2 | 2 | Brownies | 
-| Merna 🔥 | 4 | 4 | 0 | Debug Entity | 
-| Mohamed Nabil 😡 | -2 | 1 | 3 | Others | 
-| Mohamed Waleed 🔥 | 5 | 5 | 0 | Others | 
-| Mohaned Hesham 🔥 | 4 | 4 | 0 | Code-Killers | 
-| Nada Mohamed 🔥 | 5 | 5 | 0 | Brownies | 
-| Noor Eyad 🔥 | 1 | 1 | 3 | Debug Entity | 
-| Nour El Dean 🔥 | 4 | 4 | 0 | Code-Killers | 
-| Nour Mohamed 🔥 | 3 | 4 | 1 | Debug Entity | 
-| Nourhan 🔥 | 4 | 4 | 0 | Others | 
-| Nourhan Ibrahim 🔥 | 1 | 1 | 0 | Spider_main() | 
-| Omar Baddour 😡 | -1 | 1 | 3 | Others | 
-| Omar Gaafar 🔥 | 5 | 5 | 0 | H2O | 
-| Rana Essam 🔥 | 5 | 5 | 0 | ARK-team | 
-| Shahd Moamen 🔥 | 4 | 4 | 0 | SYM-Error | 
-| Shahd Mostafa 🔥 | 1 | 1 | 1 | Others | 
-| Tolba 🔥 | 2 | 3 | 1 | Others | 
-| yehia yasser 😡 | -4 | 0 | 4 | Others | 
-| Yoused Diaa 🔥 | 1 | 1 | 1 | Others | 
-| Yousef Alaa 🔥 | 3 | 3 | 0 | SYM-Error | 
+| Ahmed Yehia 🔥 | 6 | 6 | 0 | Code-Killers | 
+| Asmaa Heikal 🔥 | 6 | 6 | 0 | ARK-team | 
+| Hossam 🔥 | 6 | 6 | 0 | H2O | 
+| Kareem Sakkary 🔥 | 6 | 6 | 0 | ARK-team | 
+| Mohamed Waleed 🔥 | 6 | 6 | 0 | Others | 
+| Nada Mohamed 🔥 | 6 | 6 | 0 | Brownies | 
+| Omar Gaafar 🔥 | 6 | 6 | 0 | H2O | 
+| Rana Essam 🔥 | 6 | 6 | 0 | ARK-team | 
+| Huda  Samir 🔥 | 6 | 6 | 0 | Brownies | 
+| Fares 🔥 | 5 | 5 | 0 | Others | 
+| Merna 🔥 | 5 | 5 | 0 | Debug Entity | 
+| Mohaned Hesham 🔥 | 5 | 5 | 0 | Code-Killers | 
+| Nour El Dean 🔥 | 5 | 5 | 0 | Code-Killers | 
+| Nourhan 🔥 | 5 | 5 | 0 | Others | 
+| Shahd Moamen 🔥 | 5 | 5 | 0 | SYM-Error | 
+| Nour Mohamed 🔥 | 4 | 5 | 1 | Debug Entity | 
+| Ahmed Tarek 🔥 | 4 | 4 | 0 | Others | 
+| Yousef Alaa 🔥 | 4 | 4 | 0 | SYM-Error | 
+| Abdullah Hegab 🔥 | 3 | 4 | 1 | Others | 
+| Tolba 🔥 | 3 | 4 | 1 | Others | 
+| Hatem 🔥 | 3 | 3 | 2 | H2O | 
+| Abdelrhman Reda 🔥 | 2 | 2 | 0 | Spider_main() | 
+| Mahmoud 🔥 | 2 | 2 | 0 | Others | 
+| Mahmoud Aziz 🔥 | 2 | 2 | 0 | Spider_main() | 
+| Maya Hisham 🔥 | 2 | 3 | 2 | Brownies | 
+| Nourhan Ibrahim 🔥 | 2 | 2 | 0 | Spider_main() | 
+| Shahd Mostafa 🔥 | 2 | 2 | 1 | Others | 
+| Youssef Diaa 🔥 | 2 | 2 | 1 | Others | 
+| Noor Eyad | 0 | 1 | 4 | Debug Entity | 
+| Omar Baddour 😡 | -2 | 1 | 4 | Others | 
+| Joe Salem 😡 | -2 | 0 | 2 | Others | 
+| Mohamed Nabil 😡 | -3 | 1 | 4 | Others | 
+| Maram Wael 😡 | -5 | 0 | 5 | SYM-Error | 
+| yehia yasser 😡 | -5 | 0 | 5 | Others | 
