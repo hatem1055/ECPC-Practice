@@ -79,6 +79,7 @@
  75. A - Buy a Shovel : [Codeforces Round #377 (Div. 2)](https://codeforces.com/contest/732/problem/A)
  76. B - Nirvana : [Codeforces Round #549 (Div. 2)](https://codeforces.com/problemset/problem/1143/B)
  77. C - 3Sum closure : [Codeforces Round #803 (Div. 2)](https://codeforces.com/contest/1698/problem/C)
+ 78. F - 3SUM : [Codeforces Round #799 (Div. 4)](https://codeforces.com/contest/1692/problem/F)
  
 ## Leetcode
 
