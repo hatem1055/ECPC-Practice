@@ -140,37 +140,37 @@
  
 | Name | No. of Streaks    | Solved   | Unsolved  | Team |                           
 | :---: | :---: | :---: | :---: | :---:|
-| Ahmed Yehia 🔥 | 6 | 6 | 0 | Code-Killers | 
-| Asmaa Heikal 🔥 | 6 | 6 | 0 | ARK-team | 
-| Hossam 🔥 | 6 | 6 | 0 | H2O | 
-| Kareem Sakkary 🔥 | 6 | 6 | 0 | ARK-team | 
-| Mohamed Waleed 🔥 | 6 | 6 | 0 | Others | 
-| Nada Mohamed 🔥 | 6 | 6 | 0 | Brownies | 
-| Omar Gaafar 🔥 | 6 | 6 | 0 | H2O | 
-| Rana Essam 🔥 | 6 | 6 | 0 | ARK-team | 
-| Huda  Samir 🔥 | 6 | 6 | 0 | Brownies | 
-| Fares 🔥 | 5 | 5 | 0 | Others | 
-| Merna 🔥 | 5 | 5 | 0 | Debug Entity | 
-| Mohaned Hesham 🔥 | 5 | 5 | 0 | Code-Killers | 
-| Nour El Dean 🔥 | 5 | 5 | 0 | Code-Killers | 
-| Nourhan 🔥 | 5 | 5 | 0 | Others | 
-| Shahd Moamen 🔥 | 5 | 5 | 0 | SYM-Error | 
-| Nour Mohamed 🔥 | 4 | 5 | 1 | Debug Entity | 
-| Ahmed Tarek 🔥 | 4 | 4 | 0 | Others | 
-| Yousef Alaa 🔥 | 4 | 4 | 0 | SYM-Error | 
-| Abdullah Hegab 🔥 | 3 | 4 | 1 | Others | 
-| Tolba 🔥 | 3 | 4 | 1 | Others | 
-| Hatem 🔥 | 3 | 3 | 2 | H2O | 
-| Abdelrhman Reda 🔥 | 2 | 2 | 0 | Spider_main() | 
-| Mahmoud 🔥 | 2 | 2 | 0 | Others | 
-| Mahmoud Aziz 🔥 | 2 | 2 | 0 | Spider_main() | 
-| Maya Hisham 🔥 | 2 | 3 | 2 | Brownies | 
-| Nourhan Ibrahim 🔥 | 2 | 2 | 0 | Spider_main() | 
-| Shahd Mostafa 🔥 | 2 | 2 | 1 | Others | 
-| Youssef Diaa 🔥 | 2 | 2 | 1 | Others | 
-| Noor Eyad | 0 | 1 | 4 | Debug Entity | 
-| Omar Baddour 😡 | -2 | 1 | 4 | Others | 
-| Joe Salem 😡 | -2 | 0 | 2 | Others | 
-| Mohamed Nabil 😡 | -3 | 1 | 4 | Others | 
-| Maram Wael 😡 | -5 | 0 | 5 | SYM-Error | 
-| yehia yasser 😡 | -5 | 0 | 5 | Others | 
+| Ahmed Yehia 🔥 | 7 | 7 | 0 | Code-Killers | 
+| Asmaa Heikal 🔥 | 7 | 7 | 0 | ARK-team | 
+| Hossam 🔥 | 7 | 7 | 0 | H2O | 
+| Kareem Sakkary 🔥 | 7 | 7 | 0 | ARK-team | 
+| Mohamed Waleed 🔥 | 7 | 7 | 0 | Others | 
+| Nada Mohamed 🔥 | 7 | 7 | 0 | Brownies | 
+| Omar Gaafar 🔥 | 7 | 7 | 0 | H2O | 
+| Rana Essam 🔥 | 7 | 7 | 0 | ARK-team | 
+| Hoda Samir 🔥 | 7 | 7 | 0 | Brownies | 
+| Fares 🔥 | 6 | 6 | 0 | Others | 
+| Merna 🔥 | 6 | 6 | 0 | Debug Entity | 
+| Mohaned Hesham 🔥 | 6 | 6 | 0 | Code-Killers | 
+| Nour El Dean 🔥 | 6 | 6 | 0 | Code-Killers | 
+| Nourhan 🔥 | 6 | 6 | 0 | Others | 
+| Shahd Moamen 🔥 | 6 | 6 | 0 | SYM-Error | 
+| Nour Mohamed 🔥 | 5 | 6 | 1 | Debug Entity | 
+| Ahmed Tarek | 0 | 4 | 1 | Others | 
+| Yousef Alaa | 0 | 4 | 1 | SYM-Error | 
+| Abdullah Hegab 🔥 | 4 | 5 | 1 | Others | 
+| Tolba 🔥 | 4 | 5 | 1 | Others | 
+| Hatem 🔥 | 4 | 4 | 2 | H2O | 
+| Abdelrhman Reda 🔥 | 3 | 3 | 0 | Spider_main() | 
+| Mahmoud | 0 | 2 | 1 | Others | 
+| Mahmoud Aziz 🔥 | 3 | 3 | 0 | Spider_main() | 
+| Maya Hesham 🔥 | 3 | 4 | 2 | Brownies | 
+| Nourhan Ibrahim 🔥 | 3 | 3 | 0 | Spider_main() | 
+| Shahd Mostafa 🔥 | 3 | 3 | 1 | Others | 
+| Youssef Diaa | 0 | 2 | 2 | Others | 
+| Noor Eyad 😡 | -1 | 1 | 5 | Debug Entity | 
+| Omar Baddour 😡 | -3 | 1 | 5 | Others | 
+| Joe Salem 😡 | -3 | 0 | 3 | Others | 
+| Mohamed Nabil 😡 | -4 | 1 | 5 | Others | 
+| Maram Wael 😡 | -6 | 0 | 6 | SYM-Error | 
+| yehia yasser 😡 | -6 | 0 | 6 | Others | 
