@@ -84,6 +84,7 @@
  80. A - Beautiful Matrix : [Codeforces Round #161 (Div. 2)](https://codeforces.com/problemset/problem/263/A)
  81. A. Colorful Stones (Simplified Edition) : [Codeforces Round #162 (Div. 2)](https://codeforces.com/contest/265/problem/A)
  82. C - White Sheet : [Codeforces Round #587 (Div. 3)] (https://codeforces.com/contest/1216/problem/C)
+ 83. B - Almost Ternary Matrix : [Codeforces Round #804 (Div. 2)](https://codeforces.com/contest/1699/problem/B)
 
 ## Leetcode
 
