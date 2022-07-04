@@ -82,7 +82,7 @@
  78. F - 3SUM : [Codeforces Round #799 (Div. 4)](https://codeforces.com/contest/1692/problem/F)
  79. B - Two Tables : [Educational Codeforces Round 112 (Rated for Div. 2)](https://codeforces.com/contest/1555/problem/B)
  80. A - Beautiful Matrix : [Codeforces Round #161 (Div. 2)](https://codeforces.com/problemset/problem/263/A)
- 
+ 81. C - White Sheet : [Codeforces Round #587 (Div. 3)] (https://codeforces.com/contest/1216/problem/C)
 ## Leetcode
 
  1. Find the Town Judge : [Problem #997](https://leetcode.com/problems/find-the-town-judge/)
