@@ -86,7 +86,8 @@
  82. C - White Sheet : [Codeforces Round #587 (Div. 3)](https://codeforces.com/contest/1216/problem/C)
  83. B - Almost Ternary Matrix : [Codeforces Round #804 (Div. 2)](https://codeforces.com/contest/1699/problem/B)
  84. A - Cheap Travel : [Codeforces Round #266 (Div. 2)] (https://codeforces.com/problemset/problem/466/A)
- 85. 
+ 85. B - Palindromic Numbers : [Codeforces Round #802 (Div. 2)](https://codeforces.com/contest/1700/problem/B)
+ 86. 
  
 
 ## Leetcode
