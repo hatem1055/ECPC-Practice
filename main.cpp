@@ -3,16 +3,19 @@
 using namespace std;
 int main()
 {
-int x;
-cin >> x;
+int price, coin;
+cin >> price >> coin;
+int counter = 0;
 int result = 0;
 
-while(x>0){
-    if(x%2==1){
-        result++;
+while(true){
+    counter++;
+    result = price*counter;
+
+    if(result%10 == 0 || result%10 == coin){
+        break;
     }
-    x/=2;
 }
 
-cout << result << endl;
+cout << counter << endl;
 }
