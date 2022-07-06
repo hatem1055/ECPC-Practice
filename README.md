@@ -88,7 +88,7 @@
  84. A - Cheap Travel : [Codeforces Round #266 (Div. 2)](https://codeforces.com/problemset/problem/466/A)
  85. B - Palindromic Numbers : [Codeforces Round #802 (Div. 2)](https://codeforces.com/contest/1700/problem/B)
  86. A. Helpful Maths : [Codeforces Round #197 (Div. 2)](https://codeforces.com/contest/339/problem/A)
- 
+ 87. A. Gravity Flip : [Codeforces Round #238 (Div. 2)] (https://codeforces.com/problemset/problem/405/A)
 
 ## Leetcode
 
