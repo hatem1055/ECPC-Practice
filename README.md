@@ -89,6 +89,7 @@
  85. B - Palindromic Numbers : [Codeforces Round #802 (Div. 2)](https://codeforces.com/contest/1700/problem/B)
  86. A. Helpful Maths : [Codeforces Round #197 (Div. 2)](https://codeforces.com/contest/339/problem/A)
  87. A. Gravity Flip : [Codeforces Round #238 (Div. 2)] (https://codeforces.com/problemset/problem/405/A)
+ 88. B - Taxi : [VK Cup 2012 Qualification Round 1](https://codeforces.com/problemset/problem/158/B)
 
 ## Leetcode
 
