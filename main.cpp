@@ -1,20 +1,20 @@
 #include <iostream>
+#include<bits/stdc++.h>
 using namespace std;
+int main()
+{
+int a;
+cin >> a;
+int arr[a];
 
-int main() {
-    int n,i=0,mas[]= {4, 7, 44 , 47, 74, 77, 444, 447, 474, 477, 744, 747, 774, 777}; //14
-    cin>>n;
+for(int i = 0; i<a; i++){
+    cin >> arr[i];
+}
 
-    for (i=0;i<14;i++)
-    {
-        if (n%mas[i]==0)
-        {
-            cout << "YES" << endl;
-            break;
-        }
-    }
+sort(arr,arr+a);
+for(int i = 0; i<a; i++){
+    cout << arr[i] << " ";
+}
 
-    if (i==14) cout << "NO" << endl;
-    return 0;
-    
+return 0;
 }
