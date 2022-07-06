@@ -1,32 +1,20 @@
 #include <iostream>
-#include <string>
-#include <vector>
-#include <cmath>
-#include <bits/stdc++.h>
 using namespace std;
 
 int main() {
-    int t;
-    cin >> t;
-    while (t--) {
-        vector<int>minis;
-        int row, len;
-        cin>>row;
-        cin>>len;
-        string tot[row];
-        for(int i=0;i<row;i++){
-            cin>>tot[i];
+    int n,i=0,mas[]= {4, 7, 44 , 47, 74, 77, 444, 447, 474, 477, 744, 747, 774, 777}; //14
+    cin>>n;
+
+    for (i=0;i<14;i++)
+    {
+        if (n%mas[i]==0)
+        {
+            cout << "YES" << endl;
+            break;
         }
-        for(int i = 0; i < row; i++){
-            for(int j = i + 1; j < row; j++){
-                int sumForWrd = 0;
-                for(int k = 0; k < len; k++){
-                    sumForWrd+= abs(tot[i][k] - tot[j][k]);
-                }
-                minis.push_back(sumForWrd);
-            }
-        }
-        int min = *min_element(minis.begin(), minis.end());
-        cout << min << endl;
     }
+
+    if (i==14) cout << "NO" << endl;
+    return 0;
+    
 }
