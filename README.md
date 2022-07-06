@@ -87,11 +87,12 @@
  83. B - Almost Ternary Matrix : [Codeforces Round #804 (Div. 2)](https://codeforces.com/contest/1699/problem/B)
  84. A - Cheap Travel : [Codeforces Round #266 (Div. 2)](https://codeforces.com/problemset/problem/466/A)
  85. B - Palindromic Numbers : [Codeforces Round #802 (Div. 2)](https://codeforces.com/contest/1700/problem/B)
- 86. A. Helpful Maths : [Codeforces Round #197 (Div. 2)](https://codeforces.com/contest/339/problem/A)
- 87. A. Gravity Flip : [Codeforces Round #238 (Div. 2)](https://codeforces.com/problemset/problem/405/A)
+ 86. A - Helpful Maths : [Codeforces Round #197 (Div. 2)](https://codeforces.com/contest/339/problem/A)
+ 87. A - Gravity Flip : [Codeforces Round #238 (Div. 2)](https://codeforces.com/problemset/problem/405/A)
  88. B - Taxi : [VK Cup 2012 Qualification Round 1](https://codeforces.com/problemset/problem/158/B)
  89. A - Coins : [Codeforces Round #523 (Div. 2)](https://codeforces.com/problemset/problem/1061/A)
  90. A - Bear and Big Brother : [Codeforces Round #405 (rated, Div. 2, based on VK Cup 2017 Round 1)](https://codeforces.com/contest/791/problem/A)
+ 91. A - Way Too Long Words : [Codeforces Beta Round #65 (Div. 2)](https://codeforces.com/contest/71/problem/A)
 
 ## Leetcode
 
