@@ -93,6 +93,7 @@
  89. A - Coins : [Codeforces Round #523 (Div. 2)](https://codeforces.com/problemset/problem/1061/A)
  90. A - Bear and Big Brother : [Codeforces Round #405 (rated, Div. 2, based on VK Cup 2017 Round 1)](https://codeforces.com/contest/791/problem/A)
  91. A - Way Too Long Words : [Codeforces Beta Round #65 (Div. 2)](https://codeforces.com/contest/71/problem/A)
+ 91. A - Vanya and Fence : [Codeforces Round #355 (Div. 2)](https://codeforces.com/contest/677/problem/A)
 
 ## Leetcode
 
