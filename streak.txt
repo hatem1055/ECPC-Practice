@@ -1,35 +1,37 @@
-Daily streak dashboard
-Ahmed Yehia  7 🔥
-Asmaa Heikal  7 🔥
-Hossam  7 🔥
-Kareem Sakkary  7 🔥
-Mohamed Waleed  7 🔥
-Nada Mohamed  7 🔥
-Omar Gaafar  7 🔥
-Rana Essam  7 🔥
-Hoda Samir  7 🔥
-Fares  6 🔥
-Merna  6 🔥
-Mohaned Hesham  6 🔥
-Nour El Dean  6 🔥
-Nourhan  6 🔥
-Shahd Moamen  6 🔥
-Nour Mohamed  5 🔥
-Ahmed Tarek  0 
-Yousef Alaa  0 
-Abdullah Hegab  4 🔥
-Tolba  4 🔥
-Hatem  4 🔥
-Abdelrhman Reda  3 🔥
-Mahmoud  0 
-Mahmoud Aziz  3 🔥
-Maya Hesham  3 🔥
-Nourhan Ibrahim  3 🔥
-Shahd Mostafa  3 🔥
-Youssef Diaa  0 
-Noor Eyad  -1 😡
-Omar Baddour  -3 😡
-Joe Salem  -3 😡
-Mohamed Nabil  -4 😡
-Maram Wael  -6 😡
-yehia yasser  -6 😡
+Daily streak dashboard :
+Rana Essam  10 🔥
+Omar Gaafar  10 🔥
+Nada Mohamed  10 🔥
+Mohamed Waleed  10 🔥
+Kareem Sakkary  10 🔥
+Hossam  10 🔥
+Hoda Samir  10 🔥
+Asmaa Heikal  10 🔥
+Ahmed Yehia  10 🔥
+Shahd Moamen  9 🔥
+Nourhan  9 🔥
+Nour El Dean  9 🔥
+Mohaned Hesham  9 🔥
+Merna  9 🔥
+Fares  9 🔥
+Nour Mohamed  8 🔥
+Tolba  7 🔥
+Shahd Mostafa  6 🔥
+Nourhan Ibrahim  6 🔥
+Maya Hesham  6 🔥
+Abdelrhman Reda  6 🔥
+Mahmoud Aziz  6 🔥
+Mahmoud Adel  3 🔥
+Ahmed Tarek  3 🔥
+Shehab  1 🔥
+Ahmed El Sayed  1 🔥
+Adham Hussin  1 🔥
+Noor Eyad  0 
+Mahmoud  -1 😡
+Hatem  -2 😡
+Abdullah Hegab  -2 😡
+Youssef Diaa  -3 😡
+Yousef Alaa  -3 😡
+Abdelrhman Atef  -3 😡
+Omar Baddour  -6 😡
+Joe Salem  -6 😡
