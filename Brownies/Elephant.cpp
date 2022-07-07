@@ -1,32 +1,18 @@
-//https://codeforces.com/problemset/problem/617/A
+#include<bits/stdc++.h>
 #include <iostream>
+#include <cstring>
 using namespace std;
-int main() {
-    int x=0,c=0;
+
+int main(){
+    int x;
     cin>>x;
-    if(x==1||x==2||x==3||x==4||x==5){
-       c=1;
-    }else {
-       while(x>0){
-           while(x>=5){
-               c++;
-               x = x - 5;
-           }
-            if(x>=4){
-               c++;
-               x =x-4;
-           } else if(x>=3){
-               c++;
-               x =x-3;
-           }else if(x>=2){
-               c++;
-               x =x-2;
-           }else if(x>=1){
-               c++;
-               x =x-1;
-           }
-       }
+    int total=x/5;
+    x%=5;
+    if(x!=0){
+        total++;
+
     }
-    cout<<c;
+    cout<<total;
+
     return 0;
 }
