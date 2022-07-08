@@ -95,6 +95,7 @@
  91. A - Way Too Long Words : [Codeforces Beta Round #65 (Div. 2)](https://codeforces.com/contest/71/problem/A)
  91. A - Vanya and Fence : [Codeforces Round #355 (Div. 2)](https://codeforces.com/contest/677/problem/A)
  92. A. Free Ice Cream : [Codeforces Round #359 (Div. 2)](https://codeforces.com/contest/686/problem/A)
+ 93. B. Who's Opposite? : [Codeforces Round #739 (Div. 3)](https://codeforces.com/problemset/problem/1560/B)
 
 ## Leetcode
 
