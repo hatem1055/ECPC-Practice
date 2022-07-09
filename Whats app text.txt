@@ -1,51 +1,46 @@
-[0:54 am, 07/07/2022] Nour El Dean: Daily problem solved - Free Ice Cream
-[0:55 am, 07/07/2022] Merna: Allah
-[0:56 am, 07/07/2022] Nour El Dean: 3ada 3andy eny abda2 el yom el gded
-[0:56 am, 07/07/2022] Merna: El fekra en fy free ice cream kman
-[3:16 am, 07/07/2022] Hoda Samir: Lama hatet double aw long bas gably error fe test 9 3l4an byhot input by exceed Al capacity fa bykharf w lama ghertha Le long long gably error fe test 1. 🤦🏻‍♀️
-[3:18 am, 07/07/2022] Kareem Sakkary: Try long double
-[3:20 am, 07/07/2022] Hoda Samir: Wrong fe test 9
-[3:20 am, 07/07/2022] Mohamed Waleed: hwa asln el equation de bttl3 test 1 8lt 7ta law int
-[3:20 am, 07/07/2022] Mohamed Waleed: ah fhmt
-[3:21 am, 07/07/2022] Mohamed Waleed: #include <iomanip>
-[3:22 am, 07/07/2022] Mohamed Waleed: wa cout << fixed << x;
-[3:22 am, 07/07/2022] Mohamed Waleed: msh fakr kant fixed wla eh bsra7a
-[3:22 am, 07/07/2022] Mohamed Waleed: bs hwa el fekra eno bytl3 el answer fe test case 9 3la enaha scientefic notation
-[3:23 am, 07/07/2022] Hoda Samir: Hya fixed gabtly error fe test 1
-[3:24 am, 07/07/2022] Mohamed Waleed: cout << setprecision(0) << x;
-[3:25 am, 07/07/2022] Mohamed Waleed: la la hya 
-cout << fixed << setprecision(0) << x; 
-D:
-[3:26 am, 07/07/2022] Mohamed Waleed: fixed 3shan myb2ash fe el   10e+5  de
-wa setprecision 0 3shan myb2ash fe decimals
-[3:26 am, 07/07/2022] Hoda Samir: Accepted 🫣
-[3:27 am, 07/07/2022] Hoda Samir: Ahh tmam shokran
-[3:28 am, 07/07/2022] Kareem Sakkary: Waleed el top🤩
-[3:29 am, 07/07/2022] Mohamed Waleed: mesh 393 men fara8 😎
-[3:29 am, 07/07/2022] Kareem Sakkary: Aghz el asbo3 elgy tb2a a7mr
-[3:31 am, 07/07/2022] Mohamed Waleed: 🕵🏼
-[4:05 am, 07/07/2022] Abdelrhman Reda: Daily problem solved
-[0:47 pm, 07/07/2022] Nada Mohamed: Daily problem solved
-[1:27 pm, 07/07/2022] Shehab: Daily problem solved
-[2:27 pm, 07/07/2022] Mahmoud Adel: Daily Problem Solved
-[2:52 pm, 07/07/2022] Omar Gaafar: Daily problem solved - Number  of people aware of a secret
-[4:00 pm, 07/07/2022] Mohaned Hesham: Daily problem solved
-[4:35 pm, 07/07/2022] Adham Hessian: Daily problem solved
-[4:44 pm, 07/07/2022] Ahmed Tarek: Daily problem solved
-[4:57 pm, 07/07/2022] Nour Mohamed: Daily problem solved
-[5:29 pm, 07/07/2022] Mahmoud Aziz: Daily problem solved
-[6:22 pm, 07/07/2022] Shahd Mostafa: Daily problem solved
-[6:24 pm, 07/07/2022] Ahmed Yehia: Daily problem solved
-[6:26 pm, 07/07/2022] Maya Hesham: Daily problem solved
-[7:05 pm, 07/07/2022] Mohamed Waleed: Daily problem solved
-[7:25 pm, 07/07/2022] Rana Essam: Daily problem solved
-[7:28 pm, 07/07/2022] +20 112 821 6266: Daily problem solved
-[8:26 pm, 07/07/2022] Tolba: Daily problem solved
-[8:32 pm, 07/07/2022] Hoda Samir: Daily problem solved
-[9:17 pm, 07/07/2022] Nourhan Ibrahim: Daily problem solved
-[9:34 pm, 07/07/2022] Merna: Daily problem solved
-[11:29 pm, 07/07/2022] Kareem Sakkary: Daily problem solved
-[11:39 pm, 07/07/2022] Shahd Moamen: Daily problem solved
-[11:51 pm, 07/07/2022] Asmaa Heikal: Daily problem solved
-[11:54 pm, 07/07/2022] Ahmed El Sayed: Daily problem solved
-[11:58 pm, 07/07/2022] Hossam: Daily problem solved
+[0:29 am, 08/07/2022] Ahmed Yehia: Ahmedyehia321
+[0:30 am, 08/07/2022] Shahd Moamen: Shahdmoamen
+[0:33 am, 08/07/2022] Nada Mohamed: nadaamohhamed
+[0:48 am, 08/07/2022] Ahmed Yehia: Daily problem solved
+[0:55 am, 08/07/2022] Mohamed Waleed: snowkaai
+[0:59 am, 08/07/2022] Merna: Merna_Islam
+[1:00 am, 08/07/2022] Hossam: DedSecAlpha
+[1:01 am, 08/07/2022] Abdelrhman Reda: AbdelrhmanR.Muhammed
+[1:10 am, 08/07/2022] Hoda Samir: hodasamir
+[1:21 am, 08/07/2022] Abdelrahman Atef: abdelrahmanatef_
+[1:35 am, 08/07/2022] Rana Essam: Ranaessam03
+[2:04 am, 08/07/2022] Adham Hessian: RndmN00b
+[2:17 am, 08/07/2022] Fares: Kont bra bs 7asl 5er hrg3 tany
+[2:35 am, 08/07/2022] Nourhan Ibrahim: NourhanE.Hassan
+[2:37 am, 08/07/2022] Mahmoud Aziz: mahmoudazizorignal
+[2:48 am, 08/07/2022] Shehab: shehab_sayed
+[11:25 am, 08/07/2022] Kareem Sakkary: Daily problem solved
+[0:55 pm, 08/07/2022] Rana Essam: Daily problem solved
+[1:00 pm, 08/07/2022] Nourhan: Daily problem solved
+[2:08 pm, 08/07/2022] Mohaned Hesham: Daily problem solved
+[3:08 pm, 08/07/2022] Omar Gaafar: Daily problem solved - Number of ways to place houses
+[3:28 pm, 08/07/2022] Adham Hessian: Daily problem solved
+[4:03 pm, 08/07/2022] Mahmoud Aziz: Daily problem solved
+[5:44 pm, 08/07/2022] John: Daily problem solved
+[6:32 pm, 08/07/2022] Abdelrhman Reda: Daily problem solved
+[7:29 pm, 08/07/2022] Shehab: Daily problem solved
+[8:03 pm, 08/07/2022] Mahmoud Adel: Daily problem solved
+[8:50 pm, 08/07/2022] Shahd Mostafa: Daily problem solved
+[9:01 pm, 08/07/2022] Hossam: Daily problem solved
+[9:10 pm, 08/07/2022] Tolba: Daily problem solved
+[9:12 pm, 08/07/2022] Abdelrahman Atef: العيد فرحه بقس يا جدعان يلتش مينص
+[9:15 pm, 08/07/2022] Hoda Samir: Daily problem solved
+[9:24 pm, 08/07/2022] Tolba: يلتش = مكنتش؟
+[9:24 pm, 08/07/2022] Abdelrhman Reda: اعتقد يتشال
+[9:25 pm, 08/07/2022] Tolba: Rabna y3ena 3la atef wallah
+[9:26 pm, 08/07/2022] Nour Mohamed: Daily problem solved
+[10:23 pm, 08/07/2022] Shahd Moamen: Daily problem solved
+[10:29 pm, 08/07/2022] Mohamed Waleed: Daily problem solved
+[10:49 pm, 08/07/2022] Nada Mohamed: Daily problem solved
+[11:04 pm, 08/07/2022] Merna: Daily problem solved
+[11:04 pm, 08/07/2022] Merna: Ma n5aleha solved bs w 5las?😂
+[11:04 pm, 08/07/2022] Merna: Aw done
+[11:09 pm, 08/07/2022] Kareem Sakkary: Copy paste 😅😂😂
+[11:17 pm, 08/07/2022] Nour El Dean: Daily problem solved
+[11:41 pm, 08/07/2022] Maya Hesham: daily problem solved
+[11:59 pm, 08/07/2022] Asmaa Heikal: daily problem solved
