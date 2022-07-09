@@ -98,6 +98,7 @@
  93. B. Who's Opposite? : [Codeforces Round #739 (Div. 3)](https://codeforces.com/problemset/problem/1560/B)
  94. A. Presents : [Codeforces Beta Round #97 (Div. 2)](https://codeforces.com/problemset/problem/136/A)
  95. A - Lucky Division : [Codeforces Beta Round #91 (Div. 2 Only)](https://codeforces.com/problemset/problem/122/A)
+ 96. A. Mahmoud and Longest Uncommon Subsequence : [Codeforces Round #396 (Div. 2)](https://codeforces.com/contest/766/problem/A)
 
 ## Leetcode
 
