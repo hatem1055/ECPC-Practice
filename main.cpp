@@ -2,17 +2,14 @@
 using namespace std;
 int main()
 {
-int a;
-cin >> a;
-int arr[a];
-for(int i = 0; i < a; i++){
-    cin >> arr[i];
-}
-for(int j = 1; j <= a; j++){
-    for(int i = 0; i < a; i++){
-        if(arr[i] == j){
-            cout << i+1 << " ";
-        }
+   int x,a,b,c,count=0;
+   cin >> x;
+
+   for(int i = 0; i <x; i++){
+    cin >> a >> b >> c;
+    if(a+b+c >= 2){
+        count++;
     }
-}
+   }
+   cout << count << endl;
 }
