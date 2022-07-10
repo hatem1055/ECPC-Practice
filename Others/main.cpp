@@ -4,27 +4,24 @@ int main() {
     std::ios_base::sync_with_stdio(0);
     cin.tie(nullptr);
     cout.tie(nullptr);
-    int n;
-    cin >> n;
-    int arr[n],target = n;
-    priority_queue <int> pq;
-    for(int i=0;i<n;i++){
-        cin >> arr[i];
-    }
-    for(int i=0;i<n;i++){
-        if(arr[i] == target) {
-            cout << target << " ";
-            target--;
-                while (pq.size() > 0 && pq.top() == target) {
-                    cout << pq.top() << " ";
-                    pq.pop();
-                    target--;
-                }
+    long long t;
+    cin >> t;
+    for(long long i=0;i<t;i++){
+        long long price,c=0,x;
+        cin >> price;
+        x = price;
+        while(x>=10){
+            x /= 10;
+            c++;
         }
-        else{
-            pq.push(arr[i]);
+        if(price / pow(10,c+1) == 1){
+            cout << "0" << endl;
         }
-        cout << endl;
+        else {
+            x = price - pow(10, c);
+            cout << x << endl;
+        }
+
     }
     return 0;
 }
