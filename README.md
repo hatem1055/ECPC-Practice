@@ -101,7 +101,7 @@
  96. A. Mahmoud and Longest Uncommon Subsequence : [Codeforces Round #396 (Div. 2)](https://codeforces.com/contest/766/problem/A)
  97. A. Die Roll : [Codeforces Beta Round #9 (Div. 2 Only)](https://codeforces.com/contest/9/problem/A)
  98. A - Laptops : [Codeforces Round #260 (Div. 2)](https://codeforces.com/contest/456/problem/A)
- 99. 
+ 99. A - Word : [Codeforces Beta Round #55 (Div. 2)](https://codeforces.com/contest/59/problem/A)
 
 ## Leetcode
 
