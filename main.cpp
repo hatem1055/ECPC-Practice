@@ -1,15 +1,15 @@
 #include <iostream>
+#include <cmath>
 using namespace std;
 int main()
 {
-   int x,a,b,c,count=0;
-   cin >> x;
-
-   for(int i = 0; i <x; i++){
-    cin >> a >> b >> c;
-    if(a+b+c >= 2){
-        count++;
+int i,j,x=0;
+for(i=1; i<=5;i++){
+    for(j=1;j<=5; j++){
+        cin>>x;
+        if(x==1){
+            cout<< abs(i-3)+abs(j-3)<<endl;
+        }
     }
-   }
-   cout << count << endl;
+}
 }
