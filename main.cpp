@@ -1,16 +1,24 @@
 #include <iostream>
+#include <string>
+#include <cstring>
+#include <cctype>
 using namespace std;
-int main()
-{
-int a,n;
-cin >> a >> n;
-for(int i=0; i<n; i++){
-    if(a%10==0){
-        a/=10;
+
+int main() {
+    int n,h,ans{0};
+    cin>>n;
+    cin>>h;
+    int arr[n];
+    for(int i=0;i<n;i++){
+        cin>>arr[i];
     }
-    else{
-        a--;
+    for(int j=0;j<n;j++){
+        if(arr[j]>h){
+            ans+=2;
+        }else{
+            ans+=1;
+        }
     }
-}
-cout << a;
+    cout<<ans;
+
 }
