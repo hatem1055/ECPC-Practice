@@ -99,6 +99,10 @@
  94. A. Presents : [Codeforces Beta Round #97 (Div. 2)](https://codeforces.com/problemset/problem/136/A)
  95. A - Lucky Division : [Codeforces Beta Round #91 (Div. 2 Only)](https://codeforces.com/problemset/problem/122/A)
  96. A. Mahmoud and Longest Uncommon Subsequence : [Codeforces Round #396 (Div. 2)](https://codeforces.com/contest/766/problem/A)
+ 97. A. Die Roll : [Codeforces Beta Round #9 (Div. 2 Only)](https://codeforces.com/contest/9/problem/A)
+ 98. A - Laptops : [Codeforces Round #260 (Div. 2)](https://codeforces.com/contest/456/problem/A)
+ 99. A - Word : [Codeforces Beta Round #55 (Div. 2)](https://codeforces.com/contest/59/problem/A)
+100. A. Shaass and Oskols : [Codeforces Round #178 (Div. 2)](https://codeforces.com/contest/294/problem/A)
 
 ## Leetcode
 
@@ -160,39 +164,37 @@
  
 | Name | No. of Streaks    | Solved   | Unsolved  | Team |                           
 | :---: | :---: | :---: | :---: | :---:|
-| Rana Essam 🔥 | 11 | 11 | 0 | ARK-team | 
-| Omar Gaafar 🔥 | 11 | 11 | 0 | H2O | 
-| Nada Mohamed 🔥 | 11 | 11 | 0 | Brownies | 
-| Mohamed Waleed 🔥 | 11 | 11 | 0 | Others | 
-| Kareem Sakkary 🔥 | 11 | 11 | 0 | ARK-team | 
-| Hossam 🔥 | 11 | 11 | 0 | H2O | 
-| Hoda Samir 🔥 | 11 | 11 | 0 | Brownies | 
-| Asmaa Heikal 🔥 | 11 | 11 | 0 | ARK-team | 
-| Ahmed Yehia 🔥 | 11 | 11 | 0 | Code-Killers | 
-| Shahd Moamen 🔥 | 10 | 10 | 0 | SYM-Error | 
-| Nourhan | 0 | 9 | 1 | Others | 
-| Nour El Dean 🔥 | 10 | 10 | 0 | Code-Killers | 
-| Mohaned Hesham 🔥 | 10 | 10 | 0 | Code-Killers | 
-| Merna 🔥 | 10 | 10 | 0 | Debug Entity | 
-| Fares | 0 | 9 | 1 | Others | 
-| Nour Mohamed 🔥 | 9 | 10 | 1 | Debug Entity | 
-| Tolba 🔥 | 8 | 9 | 1 | Others | 
-| Shahd Mostafa 🔥 | 7 | 7 | 1 | Others | 
-| Nourhan Ibrahim 🔥 | 7 | 7 | 0 | Spider_main() | 
-| Maya Hesham 🔥 | 7 | 8 | 2 | Brownies | 
-| Abdelrhman Reda 🔥 | 7 | 7 | 0 | Spider_main() | 
-| Mahmoud Aziz 🔥 | 7 | 7 | 0 | Spider_main() | 
-| Mahmoud Adel 🔥 | 4 | 4 | 0 | Others | 
-| Ahmed Tarek 🔥 | 4 | 8 | 1 | Others | 
-| Shehab 🔥 | 2 | 2 | 0 | Others | 
-| Ahmed El Sayed 🔥 | 2 | 2 | 0 | Others | 
-| Adham Hussin 🔥 | 2 | 2 | 0 | Others | 
-| Noor Eyad 😡 | -1 | 2 | 8 | Debug Entity | 
-| Mahmoud 😡 | -2 | 3 | 4 | Others | 
-| Hatem 😡 | -3 | 4 | 6 | H2O | 
-| Abdullah Hegab 😡 | -3 | 5 | 5 | Others | 
-| Youssef Diaa 😡 | -4 | 2 | 6 | Others | 
-| Yousef Alaa 😡 | -4 | 4 | 5 | SYM-Error | 
-| Abdelrhman Atef 😡 | -4 | 0 | 4 | Others | 
-| Omar Baddour 😡 | -7 | 1 | 9 | Others | 
-| Joe Salem 😡 | -7 | 0 | 7 | Others | 
+| Hossam 🔥 | 15 | 14 | 0 | H2O | 
+| Kareem Sakkary 🔥 | 15 | 14 | 0 | ARK-team | 
+| Mohamed Waleed 🔥 | 15 | 14 | 0 | Others | 
+| Asmaa Heikal 🔥 | 14 | 13 | 0 | ARK-team | 
+| Nada Mohamed 🔥 | 14 | 13 | 0 | Brownies | 
+| Nour El Dean 🔥 | 14 | 13 | 0 | Code-Killers | 
+| Ahmed Yehia 🔥 | 13 | 12 | 0 | Code-Killers | 
+| Rana Essam 🔥 | 12 | 12 | 0 | ARK-team | 
+| Omar Gaafar 🔥 | 12 | 12 | 0 | H2O | 
+| Hoda Samir 🔥 | 12 | 12 | 0 | Brownies | 
+| Merna 🔥 | 11 | 11 | 0 | Debug Entity | 
+| Mohaned Hesham 🔥 | 11 | 11 | 0 | Code-Killers | 
+| Shahd Moamen 🔥 | 11 | 11 | 0 | SYM-Error | 
+| Nour Mohamed 🔥 | 10 | 11 | 1 | Debug Entity | 
+| Maya Hesham 🔥 | 10 | 10 | 2 | Brownies | 
+| Mahmoud Aziz 🔥 | 10 | 9 | 0 | Spider_main() | 
+| Tolba 🔥 | 9 | 10 | 1 | Others | 
+| Abdelrhman Reda 🔥 | 8 | 8 | 0 | Spider_main() | 
+| Shahd Mostafa 🔥 | 8 | 8 | 1 | Others | 
+| Mahmoud Adel 🔥 | 5 | 5 | 0 | Others | 
+| Shehab 🔥 | 5 | 4 | 0 | Others | 
+| Adham Hussin 🔥 | 3 | 3 | 0 | Others | 
+| Nourhan 🔥 | 1 | 10 | 1 | Others | 
+| Ahmed Tarek | 0 | 8 | 2 | Others | 
+| Nourhan Ibrahim | 0 | 7 | 1 | Spider_main() | 
+| Ahmed El Sayed | 0 | 2 | 1 | Others | 
+| Fares 😡 | -1 | 9 | 2 | Others | 
+| Noor Eyad 😡 | -2 | 2 | 9 | Debug Entity | 
+| Mahmoud 😡 | -3 | 3 | 5 | Others | 
+| Abdullah Hegab 😡 | -4 | 5 | 6 | Others | 
+| Hatem 😡 | -4 | 4 | 7 | H2O | 
+| Yousef Alaa 😡 | -5 | 4 | 6 | SYM-Error | 
+| Youssef Diaa 😡 | -5 | 2 | 7 | Others | 
+| Abdelrhman Atef 😡 | -5 | 0 | 5 | Others | 

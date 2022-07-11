@@ -4,27 +4,15 @@ int main() {
     std::ios_base::sync_with_stdio(0);
     cin.tie(nullptr);
     cout.tie(nullptr);
-    int n;
-    cin >> n;
-    int arr[n],target = n;
-    priority_queue <int> pq;
-    for(int i=0;i<n;i++){
-        cin >> arr[i];
-    }
-    for(int i=0;i<n;i++){
-        if(arr[i] == target) {
-            cout << target << " ";
-            target--;
-                while (pq.size() > 0 && pq.top() == target) {
-                    cout << pq.top() << " ";
-                    pq.pop();
-                    target--;
-                }
+    char c;
+    cin >> c;
+    string s;
+    cin >> s;
+    string st = "qwertyuiopasdfghjkl;zxcvbnm,./";
+    for (int i = 0; i < s.size(); i++) {
+            int m = st.find(s[i]);
+            if(c == 'R') cout << st[m-1];
+            else cout << st[m+1];
         }
-        else{
-            pq.push(arr[i]);
-        }
-        cout << endl;
-    }
     return 0;
 }
