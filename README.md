@@ -106,6 +106,7 @@
 102. A. Translation : [Codeforces Round #178 (Div. 2)](https://codeforces.com/problemset/problem/41/A)
 103. A. Magnets: [Codeforces Round #200 (Div. 2)](https://codeforces.com/contest/344/problem/A)
 104. A. Panoramix's Prediction : [Codeforces Beta Round #69 (Div. 2 Only)](https://codeforces.com/problemset/problem/80/A)
+105. A. Snacktower : [Codeforces Round #398 (Div. 2)](https://codeforces.com/contest/767/problem/A)
 
 ## Leetcode
 
