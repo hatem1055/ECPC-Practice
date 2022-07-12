@@ -105,6 +105,7 @@
 100. A. Shaass and Oskols : [Codeforces Round #178 (Div. 2)](https://codeforces.com/contest/294/problem/A)
 102. A. Translation : [Codeforces Round #178 (Div. 2)](https://codeforces.com/problemset/problem/41/A)
 103. A. Magnets: [Codeforces Round #200 (Div. 2)](https://codeforces.com/contest/344/problem/A)
+104. A. Panoramix's Prediction : [Codeforces Beta Round #69 (Div. 2 Only)](https://codeforces.com/problemset/problem/80/A)
 
 ## Leetcode
 
