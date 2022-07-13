@@ -1,13 +1,18 @@
 #include <iostream>
-#include <string>
 
 using namespace std;
 
 int main()
 {
-    string s;
-    cin >> s;
-    s[0] = towupper(s[0]);
-    cout << s << endl;
+    int w;
+    cin >> w;
+    if (w % 2 == 0 && w > 2)
+    {
+        cout << "YES" << endl;
+    }
+    else
+    {
+        cout << "NO" << endl;
+    }
     return 0;
 }
