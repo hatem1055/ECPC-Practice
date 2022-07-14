@@ -20,7 +20,7 @@ int main()
         for(ll i =0;i<n;i++){
             cin >> u[i];
             if( pre[u[i]].second==0)pre[u[i]]={i+1,i+1};
-            else pre[u[i]]={min(pre[u[i]].first,i+1),max(pre[u[i]].second,i+1)};
+            else pre[u[i]]={pre[u[i]].first,i+1};
  
         }
  
