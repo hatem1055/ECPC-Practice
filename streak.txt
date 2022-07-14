@@ -1,35 +1,37 @@
 Daily streak dashboard :
-Hossam  16 🔥
-Kareem Sakkary  16 🔥
-Mohamed Waleed  16 🔥
-Asmaa Heikal  15 🔥
-Nada Mohamed  15 🔥
-Nour El Dean  15 🔥
-Ahmed Yehia  14 🔥
-Rana Essam  13 🔥
-Omar Gaafar  13 🔥
-Hoda Samir  13 🔥
-Merna  12 🔥
-Mohaned Hesham  12 🔥
-Shahd Moamen  12 🔥
-Nour Mohamed  11 🔥
-Maya Hesham  11 🔥
-Mahmoud Aziz  11 🔥
-Tolba  10 🔥
-Abdelrhman Reda  9 🔥
-Shahd Mostafa  9 🔥
-Mahmoud Adel  6 🔥
-Shehab  6 🔥
-Adham Hussin  4 🔥
-Nourhan  2 🔥
-Ahmed Tarek  -1 😡
-Nourhan Ibrahim  1 🔥
-Ahmed El Sayed  1 🔥
-Fares  -2 😡
-Noor Eyad  -3 😡
-Mahmoud  -4 😡
-Abdullah Hegab  -5 😡
-Hatem  -5 😡
-Yousef Alaa  -6 😡
-Youssef Diaa  -6 😡
-Abdelrhman Atef  -6 😡
+Mohamed Waleed  22 🔥
+Kareem Sakkary  22 🔥
+Nada Mohamed  21 🔥
+Asmaa Heikal  21 🔥
+Ahmed Yehia  20 🔥
+Omar Gaafar  19 🔥
+Nour El Dean  18 🔥
+Merna  18 🔥
+Hossam  18 🔥
+Mohaned Hesham  17 🔥
+Mahmoud Aziz  17 🔥
+Rana Essam  16 🔥
+Nour Mohamed  16 🔥
+Hoda Samir  16 🔥
+Shahd Moamen  15 🔥
+Maya Hesham  14 🔥
+Tolba  13 🔥
+Abdelrhman Reda  12 🔥
+Mahmoud Adel  9 🔥
+Nourhan Ibrahim  6 🔥
+John  3 🔥
+Mohamed Emad  1 🔥
+Shehab  0 
+Ahmed El Sayed  0 
+Nourhan  -1 😡
+Shahd Mostafa  -2 😡
+Adham Hussin  -2 😡
+Ahmed Tarek  -4 😡
+Fares  -5 😡
+Noor Eyad  -6 😡
+Mahmoud  -7 😡
+Hatem  -8 😡
+Abdullah Hegab  -8 😡
+Youssef Diaa  -9 😡
+Yousef Alaa  -9 😡
+Abdelrhman Atef  -9 😡
