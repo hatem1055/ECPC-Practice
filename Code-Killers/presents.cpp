@@ -1,18 +1,15 @@
 #include <iostream>
-
 using namespace std;
 
-int main(){
-    int n;
+int main() {
+    int n,p;
     cin >> n;
-    int arr[n];
-    for(int i = 0; i < n; i++){
-        int x;
-        cin >> x;
-        arr[x-1] = i+1;
+    int arr[10];
+    for(int i=1 ; i <= n ; i++){
+        cin >> p;
+        arr[p] = i;
     }
-    for(int i: arr){
-        cout << i << ' ';
+    for(int i=1;i<=n;i++){
+        cout << arr[i] << " ";
     }
-    return 0;
 }
