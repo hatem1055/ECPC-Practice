@@ -110,6 +110,7 @@
 106. A. Oath of the Night's Watch : [Divide by Zero 2017 and Codeforces Round #399 (Div. 1 + Div. 2, combined)](https://codeforces.com/contest/768/problem/A)
 107. A. Juicer : [AIM Tech Round 3 (Div. 2)](https://codeforces.com/contest/709/problem/A)
 108. A - Borya's Diagnosis : [Codeforces Round #443 (Div. 2)](https://codeforces.com/contest/879/problem/A)
+109. A. Carrot Cakes : [Playrix Codescapes Cup (Codeforces Round #413, rated, Div. 1 + Div. 2)](https://codeforces.com/contest/799/problem/A)
 
 ## Leetcode
 
