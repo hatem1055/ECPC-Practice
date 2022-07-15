@@ -1,17 +1,17 @@
-#include <iostream>
-using namespace std;
+#include <bits/stdc++.h>
 
-int main() {
-    int a,b;
-    cin >> a >> b;
-    for(int i =0; i < 10 ;i++){
-        if(a <= b){
-            a=a * 3;
-            b=b * 2;
-        }
-        else{
-            cout << i << endl;
-            break;
-        }
-    }
+using namespace std;
+int main(){
+int a,b,count=0;
+cin>>a>>b;
+while(a<=b){
+    a*=3;
+    b*=2;
+    count++;
 }
+cout<<count;
+}
+
+
+
+
