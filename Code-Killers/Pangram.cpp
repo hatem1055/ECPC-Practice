@@ -1,25 +1,25 @@
 #include <iostream>
+#include <bits/stdc++.h>
 #include <algorithm>
+#include <cctype>
+
 using namespace std;
 
-int main() {
-    int n,c=0;
-    string name;
+int main(){
+    bool arr[26];
+    memset(arr, false , sizeof(arr));
+    int n;
+    string str;
     cin >> n;
-    cin >> name;
-    for(int i=0;i<name.size();i++){
-        name[i]=tolower(name[i]);
+    cin >> str;
+    for(char ch : str){
+        arr[tolower(ch) - 'a'] = true;
     }
-    for(int i=0;i<n;i++){
-        sort(name.begin(),name.end());
-        if(name[i]!=name[i+1]){
-            c++;
-        }
-    }
-    if(c==26){
-        cout << "YES" << endl;
+    if(all_of(arr, arr + 26, [](bool i){return i;})){
+        cout << "YES";
     }
     else{
-        cout << "NO" << endl;
+        cout << "NO";
     }
+    return 0;
 }
