@@ -112,8 +112,10 @@
 108. A - Borya's Diagnosis : [Codeforces Round #443 (Div. 2)](https://codeforces.com/contest/879/problem/A)
 109. A. Carrot Cakes : [Playrix Codescapes Cup (Codeforces Round #413, rated, Div. 1 + Div. 2)](https://codeforces.com/contest/799/problem/A)
 110. A - Olesya and Rodion : [Codeforces Round #324 (Div. 2)](https://codeforces.com/contest/584/problem/A)
-111. D. Double Strings : [Codeforces Round #806 (Div. 4)] (https://codeforces.com/contest/1703/problem/D)
-112. C. They Are Everywhere : [Codeforces Round #364 (Div. 2)] (https://codeforces.com/contest/701/problem/C)
+111. D. Double Strings : [Codeforces Round #806 (Div. 4)](https://codeforces.com/contest/1703/problem/D)
+112. C. They Are Everywhere : [Codeforces Round #364 (Div. 2)](https://codeforces.com/contest/701/problem/C)
+113. A. Pangram : [Codeforces Round #295 (Div. 2)](https://codeforces.com/contest/520/problem/A)
+
 ## Leetcode
 
  1. Find the Town Judge : [Problem #997](https://leetcode.com/problems/find-the-town-judge/)
