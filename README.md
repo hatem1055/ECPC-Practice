@@ -115,6 +115,7 @@
 111. D. Double Strings : [Codeforces Round #806 (Div. 4)](https://codeforces.com/contest/1703/problem/D)
 112. C. They Are Everywhere : [Codeforces Round #364 (Div. 2)](https://codeforces.com/contest/701/problem/C)
 113. A. Pangram : [Codeforces Round #295 (Div. 2)](https://codeforces.com/contest/520/problem/A)
+114. C - Mark and His Unfinished Essay: [Codeforces Round #807 (Div. 2)](https://codeforces.com/contest/1705/problem/C)
 
 ## Leetcode
 
