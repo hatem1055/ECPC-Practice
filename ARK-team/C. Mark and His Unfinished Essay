@@ -1,0 +1,53 @@
+//https://codeforces.com/contest/1705/problem/C
+#include <iostream>
+#include <bits/stdc++.h>
+#define ll long long
+#define X first
+#define Y second
+#define fr(n) for(int i = 0 ; i < n ;i++)
+#define kareemS ios::sync_with_stdio(false);cin.tie(nullptr);
+using namespace std;
+ 
+ 
+int main()
+{
+    //kareemS
+    int t;
+    cin >>t;
+    while(t--){
+        ll n,k,q;
+        cin >> n >> k>>q;
+        string s;
+        cin >> s;
+        ll len = n;
+        map<ll,ll> str;
+        vector<ll> lens;
+        lens.push_back(len);
+        str[len]=1;
+        fr(k){
+            ll r,l;
+            cin >> l >> r;
+            len += r-l+1;
+            str[len]=l;
+            lens.push_back(len);
+        }
+//        for(int v : lens){
+//            cout <<v<<" : "<< str[v] << endl;
+//        }
+        fr(q){
+            ll m;
+            cin >> m;
+            while (m>n) {
+                int ptr=0;
+                while (m > lens[ptr])ptr++;
+                if (ptr==0)
+                    m = str[lens[ptr]]+(m - 1);
+                else
+                    m = str[lens[ptr]]+(m - lens[ptr - 1]-1);
+            }
+            cout << s[max((ll)0,m-1)] <<endl;
+        }
+    }
+    return 0;
+ 
+}
