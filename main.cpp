@@ -1,36 +1,25 @@
 #include <iostream>
 
+#include<bits/stdc++.h>
 using namespace std;
-
-
 int main()
 {
-        int n, k;
-        cin >> n >> k;
+    string s;
+    cin>>s;
+    sort(s.begin(),s.end());
+    int l=s.length();
+    int ans=0;
+    for(int i=1; i<l; i++)
+    {
+        if(s[i]!=s[i-1])
+            ans++;
+    }
+//    cout<<s<<endl;
+//    cout<<ans<<endl;
+    if(ans&1)
+        cout<<"CHAT WITH HER!"<<endl;
+    else
+        cout<<"IGNORE HIM!"<<endl;
 
-        int a;
-        for (int i = 0; i < k; ++i)
-        {
-            cin >> a;
-            if (a == 0)
-            {
-                cout << i << endl;
-                return 0;
-            }
-        }
-
-        int b;
-        for (int i = k; i < n; ++i)
-        {
-            cin >> b;
-            if (b != a)
-            {
-                cout << i << endl;
-                return 0;
-            }
-        }
-
-        cout << n << endl;
-        return 0;
-
+    return 0;
 }
