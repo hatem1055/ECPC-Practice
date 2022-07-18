@@ -4,22 +4,17 @@
 using namespace std;
 int main()
 {
-    string s;
-    cin>>s;
-    sort(s.begin(),s.end());
-    int l=s.length();
-    int ans=0;
-    for(int i=1; i<l; i++)
-    {
-        if(s[i]!=s[i-1])
-            ans++;
-    }
-//    cout<<s<<endl;
-//    cout<<ans<<endl;
-    if(ans&1)
-        cout<<"CHAT WITH HER!"<<endl;
+    int a,b,c=0;
+    cin>>a>>b;
+    if(a>b)
+        c=0;
     else
-        cout<<"IGNORE HIM!"<<endl;
-
+        while(a<=b)
+        {
+            a=a*3;
+            b=b*2;
+            c++;
+        }
+    cout<<c<<endl;
     return 0;
 }
