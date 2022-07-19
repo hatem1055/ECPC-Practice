@@ -1,20 +1,22 @@
 #include <iostream>
+#include <string>
+#include <algorithm>
 
-#include<bits/stdc++.h>
 using namespace std;
+
 int main()
 {
-    int a,b,c=0;
-    cin>>a>>b;
-    if(a>b)
-        c=0;
+    string s, t;
+    cin >> s >> t;
+    reverse(t.begin(), t.end());
+    if (s == t)
+    {
+        cout << "YES" << endl;
+    }
     else
-        while(a<=b)
-        {
-            a=a*3;
-            b=b*2;
-            c++;
-        }
-    cout<<c<<endl;
+    {
+        cout << "NO" << endl;
+    }
+
     return 0;
 }
