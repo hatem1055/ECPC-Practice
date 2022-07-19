@@ -1,16 +1,15 @@
-#include<iostream>
-
+#include <iostream>
 using namespace std;
-int main(){
-    int w;
-    cin>> w;
-    if(w<1 || w>100){
-        cin>>w;
+
+int main() {
+    int weight;
+    cin >> weight;
+    while(weight < 1 || weight > 100){
+        cin >> weight;
     }
-    if(w%2==0 && w!= 2){
-        cout<<"YES";
-    }
-    else{
-        cout<<"NO";
+    if(weight % 2 == 0 && weight > 2){
+        cout << "YES";
+    } else {
+        cout << "NO";
     }
 }
