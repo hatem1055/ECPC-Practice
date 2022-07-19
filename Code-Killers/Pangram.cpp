@@ -1,25 +1,30 @@
-#include <iostream>
 #include <bits/stdc++.h>
-#include <algorithm>
-#include <cctype>
+#define ll long long
 
 using namespace std;
-
 int main(){
-    bool arr[26];
-    memset(arr, false , sizeof(arr));
     int n;
-    string str;
-    cin >> n;
-    cin >> str;
-    for(char ch : str){
-        arr[tolower(ch) - 'a'] = true;
+    cin>>n;
+    char string[n];
+    vector<char>ref;
+    for(int i=0;i<n;i++){
+        cin>>string[i];
+        string[i]= tolower(string[i]);
+        if(find(ref.begin(),ref.end(),string[i])==ref.end())
+            ref.push_back(string[i]);
     }
-    if(all_of(arr, arr + 26, [](bool i){return i;})){
-        cout << "YES";
-    }
-    else{
-        cout << "NO";
-    }
-    return 0;
+    if(ref.size()==26)
+        cout<<"YES";
+    else
+        cout<<"NO";
+
+
 }
+
+
+
+
+
+
+
+
