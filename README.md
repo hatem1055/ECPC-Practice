@@ -168,6 +168,9 @@
  6. Flipping The Matrix :[Prepare - Algorithms - Constructive Algorithms](https://www.hackerrank.com/challenges/flipping-the-matrix/problem)
  7. Queue Using Two Stacks: [Data Structures - Queues](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)
  8. Sherlock and the Valid String [Prepare - Algorithms - Strings](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem)
+
+## SPOJ
+ 1. Hierarchy : [MAKETREE - Hierarchy](https://www.spoj.com/problems/MAKETREE/)
  
  <div align="center">
  
