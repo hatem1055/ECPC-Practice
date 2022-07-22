@@ -1,6 +1,5 @@
 #include <cctype>
 #include <iostream>
-#include <cstring>
 #include <algorithm>
 using namespace std;
 
@@ -11,10 +10,10 @@ int main()
     string str1,str2;
     cin>>str1>>str2;
 
-    std::for_each(str1.begin(), str1.end(), [](char & c) {
+    for_each(str1.begin(), str1.end(), [](char & c) {
         c = ::tolower(c);
     });
-    std::for_each(str2.begin(), str2.end(), [](char & d) {
+    for_each(str2.begin(), str2.end(), [](char & d) {
         d = ::tolower(d);
     });
 
