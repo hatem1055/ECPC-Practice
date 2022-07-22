@@ -3,19 +3,32 @@
 using namespace std;
 int main()
 {
-    string a;
-    int c=0;
-    cin>>a;
-    for(int i=0;i<a.size();i++){
-        if(a[i]==a[i+1]){
-            c+=1;
-            if(c==7){
-                cout<<"YES";
-                return 0;
+    int l,r,c,i;
+    cin>>l>>r;
+    for(i=l; i<=r; i++)
+    {
+        string b=to_string(i);
+        c=0;
+        for(int j=0; j<b.length(); j++){
+            for(int k=j+1; k<b.length(); k++)
+            {
+                if(b[j]==b[k])
+                {
+                    c=1;
+                    b.clear();
+                    break;
+                }
             }
-        }else{
-            c=1;
+        }
+        if(c==0)
+        {
+            cout<<i<<endl;
+            break;
         }
     }
-    cout<<"NO";
+    if(c==1)
+    {
+        cout<<"-1"<<endl;
+    }
+    return 0;
 }
