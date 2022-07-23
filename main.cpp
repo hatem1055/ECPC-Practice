@@ -1,34 +1,28 @@
 #include <iostream>
+#include<vector>
 #include<bits/stdc++.h>
 using namespace std;
 int main()
 {
-    int l,r,c,i;
-    cin>>l>>r;
-    for(i=l; i<=r; i++)
-    {
-        string b=to_string(i);
-        c=0;
-        for(int j=0; j<b.length(); j++){
-            for(int k=j+1; k<b.length(); k++)
-            {
-                if(b[j]==b[k])
-                {
-                    c=1;
-                    b.clear();
-                    break;
-                }
-            }
-        }
-        if(c==0)
-        {
-            cout<<i<<endl;
-            break;
-        }
-    }
-    if(c==1)
-    {
-        cout<<"-1"<<endl;
-    }
-    return 0;
+    vector<int>vector1;
+    vector<int>vector2;
+    vector1.push_back(10);
+    vector1.push_back(20);
+    cout<<vector1.at(0)<<endl;
+    cout<<vector1.at(1)<<endl;
+    vector2.push_back(100);
+    vector2.push_back(200);
+    vector<vector<int>>vector_2d;
+    vector_2d.push_back(vector1);
+    cout << vector_2d[0][0]<<endl;
+    cout << vector_2d[0][1]<<endl;
+    vector_2d.push_back(vector2);
+    cout<<vector_2d[1][0]<<endl;
+    cout<<vector_2d[1][1]<<endl;
+    vector_2d.at(0).at(0)=1000;
+    cout << vector_2d.at(0).at(0)<<endl;
+    cout << vector_2d.at(0).at(1)<<endl;
+
+
+
 }
