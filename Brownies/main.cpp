@@ -1,19 +1,10 @@
 #include <iostream>
 using namespace std;
-int main()
-{
-    int n;
-    int k;
-    cin>>n;
-    cin>>k;
-    int arr[n];
-    for (int i=0;i<n;i++){
-       cin>>arr[i];
-    }
-    int sum=0;
-    for (int i=0;i<n;i++){
-        if(arr[i] > 0 && arr[i] >= arr[k - 1])
-            sum++;
-        }
-    cout<<sum;
+int main() {
+    string x,x1,x2;
+    cin>>x;
+   for(int i=0;i<3;i++){
+       x1[i] = x[(x.size()-1)-i];
+   }
+    return 0;
 }
