@@ -119,6 +119,7 @@
 115. B. Friends and Candies: [Codeforces Round #725 (Div. 3)](https://codeforces.com/problemset/problem/1538/B)
 116. A. Twins : [Codeforces Round #111 (Div. 2)](https://codeforces.com/contest/160/problem/A)
 117. C. Two Teams Composing : [Codeforces Round #634 (Div. 3)](https://codeforces.com/problemset/problem/1335/C)
+118. A - Cards with Numbers : [Codeforces Round #155 (Div. 2)](https://codeforces.com/contest/254/problem/A)
 
 ## Leetcode
 
