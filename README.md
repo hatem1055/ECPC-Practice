@@ -121,6 +121,7 @@
 117. C. Two Teams Composing : [Codeforces Round #634 (Div. 3)](https://codeforces.com/problemset/problem/1335/C)
 118. A - Cards with Numbers : [Codeforces Round #155 (Div. 2)](https://codeforces.com/contest/254/problem/A)
 119. A. Even Odds : [Codeforces Round #188 (Div. 2)](https://codeforces.com/contest/318/problem/A)
+120. A. I Wanna Be the Guy : [Codeforces Round #268 (Div. 2)](https://codeforces.com/contest/469/problem/A)
 
 ## Leetcode
 
