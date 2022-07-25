@@ -4,22 +4,21 @@ int main() {
     std::ios_base::sync_with_stdio(0);
     cin.tie(nullptr);
     cout.tie(nullptr);
-    int n;
+    int n,c=0;
     cin >> n;
-    int a[n],b[n];
+    string s1,s2,s3;
     for(int i=0;i<n;i++){
-        cin >> a[i] >> b[i];
-        if(a[i] != b[i]){
-            cout << "rated";
-            return 0;
+        if(i == 0){
+            cin >> s1;
+            c++;
+        }
+        else{
+            cin >> s2;
+            if(s1 == s2) c++;
+            else s3 = s2;
         }
     }
-    for(int i=1;i<n;i++){
-        if(a[i] > a[i-1]){
-            cout << "unrated";
-            return 0;
-        }
-    }
-    cout << "maybe";
+    if(n - c > c) cout << s3;
+    else cout << s1;
     return 0;
 }

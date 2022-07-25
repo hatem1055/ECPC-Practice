@@ -119,6 +119,10 @@
 115. B. Friends and Candies: [Codeforces Round #725 (Div. 3)](https://codeforces.com/problemset/problem/1538/B)
 116. A. Twins : [Codeforces Round #111 (Div. 2)](https://codeforces.com/contest/160/problem/A)
 117. C. Two Teams Composing : [Codeforces Round #634 (Div. 3)](https://codeforces.com/problemset/problem/1335/C)
+118. A - Cards with Numbers : [Codeforces Round #155 (Div. 2)](https://codeforces.com/contest/254/problem/A)
+119. A. Even Odds : [Codeforces Round #188 (Div. 2)](https://codeforces.com/contest/318/problem/A)
+120. A. I Wanna Be the Guy : [Codeforces Round #268 (Div. 2)](https://codeforces.com/contest/469/problem/A)
+121. A. Valera and X : [Codeforces Round #237 (Div. 2)](http://codeforces.com/contest/404/problem/A)	
 
 ## Leetcode
 
@@ -168,6 +172,9 @@
  6. Flipping The Matrix :[Prepare - Algorithms - Constructive Algorithms](https://www.hackerrank.com/challenges/flipping-the-matrix/problem)
  7. Queue Using Two Stacks: [Data Structures - Queues](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)
  8. Sherlock and the Valid String [Prepare - Algorithms - Strings](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem)
+
+## SPOJ
+ 1. Hierarchy : [MAKETREE - Hierarchy](https://www.spoj.com/problems/MAKETREE/)
  
  <div align="center">
  
