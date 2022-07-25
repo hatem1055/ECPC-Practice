@@ -1,22 +1,26 @@
 #include <iostream>
 #include<string>
+#include<algorithm>
 using namespace std;
 
 
+using namespace std;
+string a, b;
 int main() {
-    int n, x(0);
-    cin >> n;
-
-    string s;
-    while (n--) {
-        cin >> s;
-        if (s[1] == '+') {
-            ++x;
-        } else {
-            --x;
+    cin >> a >> b;
+    for (int i = 0; i < a.size(); i++) {
+        if (a[i] < 92) {
+            a[i] += 32;
+        }
+        if (b[i] < 92) {
+            b[i] += 32;
         }
     }
-
-    cout << x << endl;
-    return 0;
+    if (a < b) {
+        cout << -1;
+    } else if (a > b) {
+        cout << 1;
+    } else if (a == b) {
+        cout << 0;
+    }
 }
