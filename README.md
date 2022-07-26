@@ -123,6 +123,7 @@
 119. A. Even Odds : [Codeforces Round #188 (Div. 2)](https://codeforces.com/contest/318/problem/A)
 120. A. I Wanna Be the Guy : [Codeforces Round #268 (Div. 2)](https://codeforces.com/contest/469/problem/A)
 121. A. Valera and X : [Codeforces Round #237 (Div. 2)](http://codeforces.com/contest/404/problem/A)	
+122. J. Smooth Developer : [FCAI - CU Team Contest #2 2022](https://codeforces.com/group/ARb1vgiFev/contest/391538/problem/J)
 
 ## Leetcode
 
