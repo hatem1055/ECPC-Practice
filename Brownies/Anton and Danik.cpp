@@ -1,27 +1,22 @@
 #include <iostream>
 using namespace std;
-
-int main()
-{
-    int n;
-    string s;
-    cin >>n;
-    cin >>s;
-    int a =s.size();
-    int suma=0;
-    int sumd=0;
-    for (int i=0; i<a;i++){
-        if(s[i]=='A')
-            suma++;
-        else if(s[i]=='D')
-            sumd++;
+int main() {
+    int n,a=0,d=0; cin>>n;
+    string y; cin>>y;
+    for(int i =0;i<y.size();i++){
+        if(y[i] == 'A'){
+            a++;
+        }else{
+            d++;
+        }
     }
-    if (suma>sumd)
+    if(a>d){
         cout<<"Anton";
-    else if (sumd>suma)
+    }else if(a<d){
         cout<<"Danik";
-    else if(suma==sumd)
+    }else{
         cout<<"Friendship";
+    }
 
     return 0;
 }
