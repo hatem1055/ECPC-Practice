@@ -1,26 +1,23 @@
 #include <iostream>
-#include<string>
+#include<cmath>
 #include<algorithm>
 using namespace std;
 
 
-using namespace std;
-string a, b;
 int main() {
-    cin >> a >> b;
-    for (int i = 0; i < a.size(); i++) {
-        if (a[i] < 92) {
-            a[i] += 32;
-        }
-        if (b[i] < 92) {
-            b[i] += 32;
-        }
+    int n;
+    cin>>n;
+    int capacity=0;
+    int stillnow=0;
+    for(int i=0;i<n;i++){
+        int a,b;
+        cin>>a>>b;
+        stillnow-=a;
+        stillnow+=b;
+        capacity=max(capacity,stillnow);
+
     }
-    if (a < b) {
-        cout << -1;
-    } else if (a > b) {
-        cout << 1;
-    } else if (a == b) {
-        cout << 0;
-    }
+    cout<<capacity;
+
+    return 0;
 }
