@@ -1,22 +1,17 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
-int main(){
-    int n;
-    int x=0;
+int main() {
+    int n, count = 0;
+    cin >> n;
     string operation;
-    cin>>n;
-    if(n<1 || n>150){
-        cin>> n;
-    }
-    for(int i =0; i<n; i++){
-        cin>>operation;
-        if(operation=="++X"|| operation == "X++") {
-            x++;
-        }
-        else if(operation=="--X"|| operation == "X--"){
-            x--;
+    while(n--){
+        cin >> operation;
+        if(operation[0] == '+' || operation[1] == '+' || operation[2] == '+'){
+            count++;
+        } else {
+            count--;
         }
     }
-    cout<<x;
+    cout << count;
 }

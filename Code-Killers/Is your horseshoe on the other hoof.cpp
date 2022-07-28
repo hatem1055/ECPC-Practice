@@ -1,18 +1,26 @@
-#include <iostream>
-#include <algorithm>
-using namespace std;
+#include <bits/stdc++.h>
+#define ll long long
 
-int main() {
-    int arr[4],c=0;
-    for(int i=0;i < 4; i++){
-        cin >> arr[i];
-    }
-    sort(arr,arr+4);
-    for(int i =0 ; i <4;i++){
-        if(arr[i]==arr[i+1]){
-            c++;
-        }
-    }
-    cout << c;
+using namespace std;
+int main(){vector<int>ref;
+for(int i=0;i<4;i++){
+    int s;
+    cin>>s;
+    if(find(ref.begin(),ref.end(),s)==ref.end())
+        ref.push_back(s);
 
 }
+cout<<4-(ref.size());
+
+
+
+
+}
+
+
+
+
+
+
+
+
