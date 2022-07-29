@@ -1,23 +1,21 @@
 #include <iostream>
-#include <cstdio>
-#include <string>
-#include <string.h>
 #include <cmath>
 
 using namespace std;
 
-int main() {
-    int i, n, t, k, w;
-    long long sum=0;
-
-    cin>> k>>n>>w;
-    for(i=1; i<=w; i++){
-        sum = sum+(i*k);
+int main()
+{
+    int x = 0;
+    for (int i = 1; i <= 5; ++i)
+    {
+        for (int j = 1; j <= 5; ++j)
+        {
+            cin >> x;
+            if (x == 1)
+            {
+                cout << abs(i - 3) + abs(j - 3) << endl;
+            }
+        }
     }
-    if(sum<= n){
-        cout <<0<<"\n";
-    }
-    else cout << sum - n << "\n";
-
     return 0;
 }
