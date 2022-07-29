@@ -1,19 +1,21 @@
 #include <iostream>
 using namespace std;
-int main()
-{
-    int n;
-    int k;
-    cin>>n;
-    cin>>k;
-    int arr[n];
-    for (int i=0;i<n;i++){
-       cin>>arr[i];
-    }
-    int sum=0;
-    for (int i=0;i<n;i++){
-        if(arr[i] > 0 && arr[i] >= arr[k - 1])
-            sum++;
+int main() {
+    string s,l="hello";
+    int c=0;
+    cin>>s;
+    int b =0;
+    for(int k =0;k<s.size();k++){
+        if(s[k] == l[b]){
+            b++;
+            c++;
         }
-    cout<<sum;
+        if(c == 5){
+            cout<<"YES";
+            return 0;
+        }
+    }
+    cout<<"NO";
+
+    return 0;
 }

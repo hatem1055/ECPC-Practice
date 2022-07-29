@@ -118,6 +118,16 @@
 114. C - Mark and His Unfinished Essay: [Codeforces Round #807 (Div. 2)](https://codeforces.com/contest/1705/problem/C)
 115. B. Friends and Candies: [Codeforces Round #725 (Div. 3)](https://codeforces.com/problemset/problem/1538/B)
 116. A. Twins : [Codeforces Round #111 (Div. 2)](https://codeforces.com/contest/160/problem/A)
+117. C. Two Teams Composing : [Codeforces Round #634 (Div. 3)](https://codeforces.com/problemset/problem/1335/C)
+118. A - Cards with Numbers : [Codeforces Round #155 (Div. 2)](https://codeforces.com/contest/254/problem/A)
+119. A. Even Odds : [Codeforces Round #188 (Div. 2)](https://codeforces.com/contest/318/problem/A)
+120. A. I Wanna Be the Guy : [Codeforces Round #268 (Div. 2)](https://codeforces.com/contest/469/problem/A)
+121. A. Valera and X : [Codeforces Round #237 (Div. 2)](http://codeforces.com/contest/404/problem/A)	
+122. J. Smooth Developer : [FCAI - CU Team Contest #2 2022](https://codeforces.com/group/ARb1vgiFev/contest/391538/problem/J)
+123. A. Arpa’s hard exam and Mehrdad’s naive cheat  : [Codeforces Round #383 (Div. 2)](https://codeforces.com/contest/742/problem/A)
+124. C. Color the Picture : [Codeforces Round #810 (Div. 2)](https://codeforces.com/contest/1711/problem/C)
+125. A. Calculating Function : [Codeforces Round #277 (Div. 2)](https://codeforces.com/contest/486/problem/A)
+126. A. Theatre Square : [Codeforces Beta Round #1](https://codeforces.com/contest/1/problem/A)
 
 ## Leetcode
 
@@ -167,6 +177,9 @@
  6. Flipping The Matrix :[Prepare - Algorithms - Constructive Algorithms](https://www.hackerrank.com/challenges/flipping-the-matrix/problem)
  7. Queue Using Two Stacks: [Data Structures - Queues](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)
  8. Sherlock and the Valid String [Prepare - Algorithms - Strings](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem)
+
+## SPOJ
+ 1. Hierarchy : [MAKETREE - Hierarchy](https://www.spoj.com/problems/MAKETREE/)
  
  <div align="center">
  
@@ -179,39 +192,39 @@
  
 | Name | No. of Streaks    | Solved   | Unsolved  | Team |                           
 | :---: | :---: | :---: | :---: | :---:|
-| Mohamed Waleed 🔥 | 22 | 20 | 0 | Others | 
-| Kareem Sakkary 🔥 | 22 | 20 | 0 | ARK-team | 
-| Nada Mohamed 🔥 | 21 | 19 | 0 | Brownies | 
-| Asmaa Heikal 🔥 | 21 | 19 | 0 | ARK-team | 
-| Ahmed Yehia 🔥 | 20 | 18 | 0 | Code-Killers | 
-| Omar Gaafar 🔥 | 19 | 18 | 0 | H2O | 
-| Nour El Dean 🔥 | 18 | 17 | 0 | Code-Killers | 
-| Merna 🔥 | 18 | 17 | 0 | Debug Entity | 
-| Hossam 🔥 | 18 | 17 | 0 | H2O | 
-| Mohaned Hesham 🔥 | 17 | 16 | 0 | Code-Killers | 
-| Mahmoud Aziz 🔥 | 17 | 15 | 0 | Spider_main() | 
-| Rana Essam 🔥 | 16 | 16 | 0 | ARK-team | 
-| Nour Mohamed 🔥 | 16 | 16 | 1 | Debug Entity | 
-| Hoda Samir 🔥 | 16 | 16 | 0 | Brownies | 
-| Shahd Moamen 🔥 | 15 | 15 | 0 | SYM-Error | 
-| Maya Hesham 🔥 | 14 | 14 | 2 | Brownies | 
-| Tolba 🔥 | 13 | 14 | 1 | Others | 
-| Abdelrhman Reda 🔥 | 12 | 12 | 0 | Spider_main() | 
-| Mahmoud Adel 🔥 | 9 | 9 | 0 | Others | 
-| Nourhan Ibrahim 🔥 | 6 | 12 | 1 | Spider_main() | 
-| John 🔥 | 3 | 3 | 0 | Others | 
-| Mohamed Emad 🔥 | 1 | 1 | 0 | Others | 
-| Shehab | 0 | 9 | 1 | Others | 
-| Ahmed El Sayed | 0 | 4 | 3 | Others | 
-| Nourhan 😡 | -1 | 12 | 3 | Others | 
-| Shahd Mostafa 😡 | -2 | 9 | 4 | Others | 
-| Adham Hussin 😡 | -2 | 4 | 3 | Others | 
-| Ahmed Tarek 😡 | -4 | 8 | 6 | Others | 
-| Fares 😡 | -5 | 9 | 6 | Others | 
-| Noor Eyad 😡 | -6 | 2 | 13 | Debug Entity | 
-| Mahmoud 😡 | -7 | 3 | 9 | Others | 
-| Hatem 😡 | -8 | 4 | 11 | H2O | 
-| Abdullah Hegab 😡 | -8 | 5 | 10 | Others | 
-| Youssef Diaa 😡 | -9 | 2 | 11 | Others | 
-| Yousef Alaa 😡 | -9 | 4 | 10 | SYM-Error | 
-| Abdelrhman Atef 😡 | -9 | 0 | 9 | Others | 
+| Mohamed Waleed 🔥 | 34 | 32 | 0 | Others | 
+| Kareem Sakkary 🔥 | 34 | 32 | 0 | ARK-team | 
+| Nada Mohamed 🔥 | 33 | 31 | 0 | Brownies | 
+| Ahmed Yehia 🔥 | 32 | 30 | 0 | Code-Killers | 
+| Omar Gaafar 🔥 | 31 | 30 | 0 | H2O | 
+| Nour El Dean 🔥 | 30 | 29 | 0 | Code-Killers | 
+| Merna 🔥 | 30 | 29 | 0 | Debug Entity | 
+| Hossam 🔥 | 30 | 29 | 0 | H2O | 
+| Mohaned Hesham 🔥 | 29 | 28 | 0 | Code-Killers | 
+| Mahmoud Aziz 🔥 | 29 | 27 | 0 | Spider_main() | 
+| Nour Mohamed 🔥 | 28 | 28 | 1 | Debug Entity | 
+| Shahd Moamen 🔥 | 27 | 27 | 0 | SYM-Error | 
+| Tolba 🔥 | 26 | 26 | 1 | Others | 
+| Abdelrhman Reda 🔥 | 24 | 24 | 0 | Spider_main() | 
+| Mahmoud Adel 🔥 | 21 | 21 | 0 | Others | 
+| Nourhan Ibrahim 🔥 | 18 | 24 | 1 | Spider_main() | 
+| Mohamed Emad 🔥 | 13 | 13 | 0 | Others | 
+| Rana Essam 🔥 | 10 | 26 | 2 | ARK-team | 
+| Hoda Samir 🔥 | 8 | 27 | 1 | Brownies | 
+| John 🔥 | 3 | 13 | 2 | Others | 
+| Abdullah Hegab 🔥 | 1 | 8 | 18 | Others | 
+| Adham Hussin 😡 | -1 | 8 | 11 | Others | 
+| Ahmed El Sayed 😡 | -2 | 7 | 12 | Others | 
+| Abdelrahman Atef 😡 | -3 | 8 | 13 | Others | 
+| Shahd Mostafa 😡 | -4 | 12 | 13 | Others | 
+| Maya Hesham 😡 | -4 | 21 | 7 | Brownies | 
+| Youssef Diaa 😡 | -4 | 3 | 21 | Others | 
+| Asmaa Heikal 😡 | -5 | 25 | 6 | ARK-team | 
+| Noor Eyad 😡 | -5 | 6 | 20 | Debug Entity | 
+| Shehab 😡 | -5 | 10 | 11 | Others | 
+| Yousef Alaa 😡 | -6 | 6 | 20 | SYM-Error | 
+| Nourhan 😡 | -13 | 12 | 15 | Others | 
+| Ahmed Tarek 😡 | -16 | 8 | 18 | Others | 
+| Fares 😡 | -17 | 9 | 18 | Others | 
+| Mahmoud 😡 | -19 | 3 | 21 | Others | 
+| Hatem 😡 | -20 | 4 | 23 | H2O | 

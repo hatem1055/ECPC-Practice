@@ -4,33 +4,21 @@ int main() {
     std::ios_base::sync_with_stdio(0);
     cin.tie(nullptr);
     cout.tie(nullptr);
-    long long t;
-    cin >> t;
-    for(long long i=0;i<t;i++){
-        int n;
-        cin >> n;
-        int arr[n];
-        for(int j=0;j<n;j++){
-            cin >> arr[j];
+    int n,c=0;
+    cin >> n;
+    string s1,s2,s3;
+    for(int i=0;i<n;i++){
+        if(i == 0){
+            cin >> s1;
+            c++;
         }
-        for(int j=0;j<n;j++){
-            int m;
-            cin >> m;
-            string s;
-            cin >> s;
-            for(int k=0;k<s.size();k++){
-                if(s[k] == 'U' && arr[j] == 0) arr[j] = 9;
-                else if(s[k] == 'D' && arr[j] == 9) arr[j] = 0;
-                else{
-                    if(s[k] == 'U') arr[j]--;
-                    else arr[j]++;
-                }
-            }
+        else{
+            cin >> s2;
+            if(s1 == s2) c++;
+            else s3 = s2;
         }
-        for(int j=0;j<n;j++){
-            cout << arr[j] << " ";
-        }
-        cout << "\n";
     }
+    if(n - c > c) cout << s3;
+    else cout << s1;
     return 0;
 }
