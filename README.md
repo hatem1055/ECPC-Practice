@@ -126,6 +126,8 @@
 122. J. Smooth Developer : [FCAI - CU Team Contest #2 2022](https://codeforces.com/group/ARb1vgiFev/contest/391538/problem/J)
 123. A. Arpa’s hard exam and Mehrdad’s naive cheat  : [Codeforces Round #383 (Div. 2)](https://codeforces.com/contest/742/problem/A)
 124. C. Color the Picture : [Codeforces Round #810 (Div. 2)](https://codeforces.com/contest/1711/problem/C)
+125. A. Calculating Function : [Codeforces Round #277 (Div. 2)](https://codeforces.com/contest/486/problem/A)
+126. A. Theatre Square : [Codeforces Beta Round #1](https://codeforces.com/contest/1/problem/A)
 
 ## Leetcode
 
