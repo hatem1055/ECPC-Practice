@@ -1,13 +1,12 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
-int main(){
-    int x;
-    cin>>x;
-    if(x%5==0){
-        cout<<(x/5);
+int main() {
+    int x, count = 0;
+    cin >> x;
+    while(x > 0){
+        x -= 5;
+        count++;
     }
-    else{
-        cout<<(x/5)+1;
-    }
+    cout << count;
 }
