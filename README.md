@@ -128,7 +128,8 @@
 124. C. Color the Picture : [Codeforces Round #810 (Div. 2)](https://codeforces.com/contest/1711/problem/C)
 125. A. Calculating Function : [Codeforces Round #277 (Div. 2)](https://codeforces.com/contest/486/problem/A)
 126. A. Theatre Square : [Codeforces Beta Round #1](https://codeforces.com/contest/1/problem/A)
-
+127. A. Anton and Polyhedrons : [Codeforces Round #404 (Div. 2)](https://codeforces.com/contest/785/problem/A)
+s
 ## Leetcode
 
  1. Find the Town Judge : [Problem #997](https://leetcode.com/problems/find-the-town-judge/)
