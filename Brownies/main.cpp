@@ -1,7 +1,10 @@
 #include <iostream>
 using namespace std;
 int main() {
-   long long n; cin>>n;
-   cout<<(n*(n+1))/2;
+   long long x,y;
+   cin>>x>>y;
+   cout<<x<<" + "<<y<<" = "<<x+y<<endl;
+   cout<<x<<" * "<<y<<" = "<<x*y<<endl;
+   cout<<x<<" - "<<y<<" = "<<x-y;
     return 0;
 }
