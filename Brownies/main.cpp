@@ -1,10 +1,11 @@
 #include <iostream>
+#include <cmath>
+#include <iomanip>
+#define pi 3.141592653
 using namespace std;
 int main() {
-    long long s,f; int x=0,y=0;
-    cin>>s>>f;
-    x = s%10;
-    y= f%10;
-    cout<<x+y;
+    float r;
+    cin>>r;
+    cout<<fixed<<setprecision(9)<<(pi)*(pow(r,2));
     return 0;
 }
