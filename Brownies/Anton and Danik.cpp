@@ -1,22 +1,43 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
-int main() {
-    int n,a=0,d=0; cin>>n;
-    string y; cin>>y;
-    for(int i =0;i<y.size();i++){
-        if(y[i] == 'A'){
-            a++;
-        }else{
-            d++;
-        }
-    }
-    if(a>d){
-        cout<<"Anton";
-    }else if(a<d){
-        cout<<"Danik";
-    }else{
-        cout<<"Friendship";
-    }
 
-    return 0;
+#define NadaM ios_base::sync_with_stdio(false);cin.tie(0);cout.tie(0);
+#define pb push_back
+#define mp make_pair
+#define fi first
+#define se second
+#define all(x) (x).begin(),(x).end()
+#define endl '\n'
+#define yes cout << "YES\n";
+#define no cout << "NO\n";
+
+typedef long long ll;
+
+void solve() {
+    int n, a = 0, d = 0;
+    cin >> n;
+    string s;
+    cin >> s;
+    for(char i:s) {
+        if (i == 'A')
+            a++;
+        else if (i == 'D')
+            d++;
+    }
+    if(a > d)
+        cout << "Anton" << endl;
+    else if (d > a)
+        cout << "Danik" << endl;
+    else if(d == a)
+        cout << "Friendship" << endl;
+}
+
+int main(){
+    NadaM
+//    freopen("input.txt", "r", stdin);
+//    freopen("output.txt", "w", stdout);
+    int t = 1;
+//    cin >> t;
+    while(t--)
+        solve();
 }
