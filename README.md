@@ -134,6 +134,7 @@
 130. E. Add Modulo 10 : [Codeforces Round #811 (Div. 3)](https://codeforces.com/contest/1714/problem/E)
 131. A. Is it rated? : [ Codeforces Round #412 (rated, Div. 2, base on VK Cup 2017 Round 3)](https://codeforces.com/contest/807/problem/A)
 132. A. 2-3 Moves : [Educational Codeforces Round 133 (Rated for Div. 2)](https://codeforces.com/contest/1716/problem/A)
+133. A - Good Number : [Codeforces Round #213 (Div. 2)](https://codeforces.com/contest/365/problem/A)
 
 ## Leetcode
 
