@@ -136,6 +136,7 @@
 132. A. 2-3 Moves : [Educational Codeforces Round 133 (Rated for Div. 2)](https://codeforces.com/contest/1716/problem/A)
 133. A - Good Number : [Codeforces Round #213 (Div. 2)](https://codeforces.com/contest/365/problem/A)
 134. B - Petya and Countryside : [Codeforces Beta Round #61 (Div. 2)](https://codeforces.com/contest/66/problem/B)
+135. B. Decoding : [Codeforces Round #386 (Div. 2)](https://codeforces.com/contest/746/problem/B)
 
 ## Leetcode
 
