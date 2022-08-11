@@ -1,0 +1,43 @@
+#include <bits/stdc++.h>
+#define ll long long
+#define X first
+#define Y second
+#define fr(n) for(int i = 0 ; i < n ;i++)
+#define frj(n) for(int j = 0 ; j < n ;j++)
+ 
+#define kareemS ios::sync_with_stdio(false);cin.tie(nullptr);
+ 
+using namespace std;
+ 
+int main() {
+    kareemS
+//    freopen("input.txt", "r", stdin);
+//    freopen("output.txt", "w", stdout);
+    int t = 1;
+    cin >> t;
+    while (t--) {
+        int n,x;
+        cin >> n >> x;
+        int a[n];
+ 
+        fr(n){
+            cin >> a[i];
+        }
+        int c=0;
+        int ma = a[0], mi =a[0];
+        for(int i=1;i<n;i++){
+            if(abs(a[i]-ma)>x*2||abs(a[i]-mi)>x*2){
+              c++;
+              mi = a[i];
+              ma = a[i];
+            }
+            if(a[i]>ma){
+                ma = a[i];
+            }
+            if(a[i]<mi){
+                mi = a[i];
+            }
+        }
+        cout << c << endl;
+    }
+}
