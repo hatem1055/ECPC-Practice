@@ -138,6 +138,7 @@
 134. B - Petya and Countryside : [Codeforces Beta Round #61 (Div. 2)](https://codeforces.com/contest/66/problem/B)
 135. B. Decoding : [Codeforces Round #386 (Div. 2)](https://codeforces.com/contest/746/problem/B)
 136. B. Sum of Digits : [Codeforces Beta Round #79 (Div. 2 Only)](https://codeforces.com/contest/102/problem/B)
+137. F. Build a Tree and That Is It : [Codeforces Round #811 (Div. 3)](https://codeforces.com/contest/1714/problem/F)
 
 ## Leetcode
 
